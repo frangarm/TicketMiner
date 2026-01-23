@@ -1,0 +1,231 @@
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 6
+Event Date: 12/6/2025
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $36.23
+Confirmation Number: 1120e738
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 5
+Event Date: 12/4/2025
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $130.92
+Confirmation Number: 3d0eed70
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Choir Holiday Gala
+Event Date: 12/2/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $37.75
+Confirmation Number: 15a02f79
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Holiday Market
+Event Date: 12/5/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $178.06
+Confirmation Number: 401290c0
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 6
+Event Date: 12/6/2025
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $77.21
+Confirmation Number: 52ff0a93
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 9
+Event Date: 10/30/2025
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $37.75
+Confirmation Number: 1ef70088
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 9
+Event Date: 10/30/2025
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $48.29
+Confirmation Number: f7edbf31
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 27
+Event Date: 2/19/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $208.19
+Confirmation Number: 53f3939a
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 6
+Event Date: 12/6/2025
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $21.33
+Confirmation Number: f1fb5fca
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 20
+Event Date: 1/24/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $136.86
+Confirmation Number: 2832c90b
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Pride Week
+Event Date: 10/3/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $57.49
+Confirmation Number: b91f648b
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 3
+Event Date: 9/18/2025
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $68.45
+Confirmation Number: 0df384f7
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Festival
+Event Name: ACL 2
+Event Date: 4/13/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $24.62
+Confirmation Number: bc6f4172
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Philharmonic Strings
+Event Date: 11/21/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $59.67
+Confirmation Number: af373b2a
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 2
+Event Date: 9/11/2025
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $101.34
+Confirmation Number: d81529d4
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 1
+Event Date: 11/30/2025
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $88.35
+Confirmation Number: b4831a22
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 30
+Event Date: 2/28/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $95.85
+Confirmation Number: 9f387c27
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 12
+Event Date: 3/22/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $36.95
+Confirmation Number: 9b7edb81
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $2.70
+Confirmation Number: e519035c
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. New Mexico (Basketball)
+Event Date: 12/10/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $57.49
+Confirmation Number: e32a3c15
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $2.70
+Confirmation Number: e1823d4b
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

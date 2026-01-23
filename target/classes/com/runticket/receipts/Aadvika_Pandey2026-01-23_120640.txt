@@ -1,0 +1,99 @@
+Customer Receipt Summary for: Aadvika Pandey
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 2
+Event Date: 1/9/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $120.53
+Confirmation Number: c68a7679
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Aadvika Pandey
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 6
+Event Date: 10/9/2025
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $101.34
+Confirmation Number: fea95855
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Aadvika Pandey
+--------------------------------------
+Event Type: Concert
+Event Name: Coldplay: Viva La Vida Tour
+Event Date: 8/25/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $1865.95
+Confirmation Number: 29a94f96
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Aadvika Pandey
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 31
+Event Date: 3/5/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $126.00
+Confirmation Number: 6c3779e8
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Aadvika Pandey
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Holiday Market
+Event Date: 12/5/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $528.79
+Confirmation Number: 48769de3
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Aadvika Pandey
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $46.53
+Confirmation Number: 7b841615
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Aadvika Pandey
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 3
+Event Date: 9/18/2025
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $68.45
+Confirmation Number: 99bf4b3c
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Aadvika Pandey
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $43.78
+Confirmation Number: 47edffef
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Aadvika Pandey
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Volleyball vs. Rice
+Event Date: 11/8/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $68.45
+Confirmation Number: d3a16c4a
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

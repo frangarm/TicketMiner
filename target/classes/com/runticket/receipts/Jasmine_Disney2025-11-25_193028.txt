@@ -1,0 +1,22 @@
+Customer Receipt Summary for: Jasmine Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Pride Week
+Event Date: 10/3/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $331.50
+Confirmation Number: d8fa2b12
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Jasmine Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $171.46
+Confirmation Number: 2cde38a8
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

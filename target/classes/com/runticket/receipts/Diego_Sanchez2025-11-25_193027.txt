@@ -1,0 +1,22 @@
+Customer Receipt Summary for: Diego Sanchez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Volleyball vs. Rice
+Event Date: 11/8/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $57.49
+Confirmation Number: 750c207e
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Diego Sanchez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 4
+Event Date: 11/29/2025
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $51.14
+Confirmation Number: cea6e2ae
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

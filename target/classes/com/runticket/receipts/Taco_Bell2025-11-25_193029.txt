@@ -1,0 +1,132 @@
+Customer Receipt Summary for: Taco Bell
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 8
+Event Date: 3/3/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $96.53
+Confirmation Number: 6acfc5d1
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Taco Bell
+--------------------------------------
+Event Type: Festival
+Event Name: EDC
+Event Date: 5/11/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $17.50
+Confirmation Number: 45845668
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Taco Bell
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 12
+Event Date: 3/22/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $135.44
+Confirmation Number: b6ea6305
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Taco Bell
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 22
+Event Date: 1/31/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $86.65
+Confirmation Number: 3db56fb1
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Taco Bell
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Farmers Market
+Event Date: 4/11/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $121.23
+Confirmation Number: 2aa6d3a7
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Taco Bell
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 21
+Event Date: 1/29/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $17.50
+Confirmation Number: f5a8acbb
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Taco Bell
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Farmers Market
+Event Date: 4/11/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $101.48
+Confirmation Number: 4da71716
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Taco Bell
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 22
+Event Date: 1/31/2026
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $93.37
+Confirmation Number: b17ef978
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Taco Bell
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UT Arlington (Basketball)
+Event Date: 1/17/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $150.86
+Confirmation Number: b00c2de1
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Taco Bell
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 2
+Event Date: 9/11/2025
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $113.82
+Confirmation Number: 78b0343d
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Taco Bell
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 5
+Event Date: 10/2/2025
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $79.74
+Confirmation Number: 927cb124
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Taco Bell
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 5
+Event Date: 10/2/2025
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $73.80
+Confirmation Number: d110a92e
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

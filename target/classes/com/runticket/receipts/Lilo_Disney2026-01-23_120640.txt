@@ -1,0 +1,99 @@
+Customer Receipt Summary for: Lilo Disney
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Choir Holiday Gala
+Event Date: 12/2/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $29.01
+Confirmation Number: 473166fa
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Lilo Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $2.70
+Confirmation Number: ac468023
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Lilo Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 21
+Event Date: 1/29/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $150.65
+Confirmation Number: 1b3338e2
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Lilo Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 12
+Event Date: 12/27/2025
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $58.59
+Confirmation Number: a023e6e1
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Lilo Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. SMU (Football)
+Event Date: 9/5/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $249.31
+Confirmation Number: 9670f9a0
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Lilo Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Fiesta Latina
+Event Date: 5/5/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $397.26
+Confirmation Number: df8d5c89
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Lilo Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. SMU (Football)
+Event Date: 9/5/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $139.69
+Confirmation Number: 97b0835c
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Lilo Disney
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Food & Brew Festival
+Event Date: 8/15/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $824.72
+Confirmation Number: 4561f1d1
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Lilo Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 18
+Event Date: 1/17/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $51.14
+Confirmation Number: 0ff8f3fb
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

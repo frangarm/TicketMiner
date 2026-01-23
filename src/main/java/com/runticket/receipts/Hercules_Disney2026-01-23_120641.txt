@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 4
+Event Date: 11/29/2025
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $49.28
+Confirmation Number: ec65b885
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. SMU (Football)
+Event Date: 9/5/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $139.69
+Confirmation Number: dc8e83cc
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $87.07
+Confirmation Number: 02c9cc81
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

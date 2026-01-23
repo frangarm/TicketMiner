@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Jasmine Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 19
+Event Date: 1/22/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $84.90
+Confirmation Number: f5af0d38
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

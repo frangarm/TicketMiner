@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Angel Bautista
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $2.70
+Confirmation Number: c711663a
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

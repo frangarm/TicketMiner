@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Ursela Mermaid
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 3
+Event Date: 11/27/2025
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $17.50
+Confirmation Number: 1e6de666
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Ursela Mermaid
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 1
+Event Date: 11/20/2025
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $91.60
+Confirmation Number: 0ee1079a
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Ursela Mermaid
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 8
+Event Date: 10/23/2025
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $154.40
+Confirmation Number: 7825a9f7
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

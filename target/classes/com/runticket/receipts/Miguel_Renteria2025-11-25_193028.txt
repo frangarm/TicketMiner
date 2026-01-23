@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Miguel Renteria
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 12/22/2025
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $2.70
+Confirmation Number: 3eaa3695
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Miguel Renteria
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 31
+Event Date: 3/5/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $91.60
+Confirmation Number: d3f3636c
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Miguel Renteria
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 9
+Event Date: 10/30/2025
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $31.15
+Confirmation Number: f0403979
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Miguel Renteria
+--------------------------------------
+Event Type: Festival
+Event Name: EDC
+Event Date: 5/11/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $17.50
+Confirmation Number: 056b50b4
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Miguel Renteria
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 10
+Event Date: 12/20/2025
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $19.49
+Confirmation Number: 6a2246c8
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Miguel Renteria
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UTSA (Football)
+Event Date: 10/10/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $348.42
+Confirmation Number: c5ad8164
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Miguel Renteria
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. NMSU Aggies (Football)
+Event Date: 9/12/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $126.17
+Confirmation Number: efdd29ea
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

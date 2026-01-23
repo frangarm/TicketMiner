@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Aadvika Pandey
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UT Arlington (Basketball)
+Event Date: 1/17/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $380.82
+Confirmation Number: 7a9794b9
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Aadvika Pandey
+--------------------------------------
+Event Type: Festival
+Event Name: Coachella 1
+Event Date: 2/8/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $2359.15
+Confirmation Number: 7eb1df7d
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Aadvika Pandey
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 25
+Event Date: 2/12/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $126.00
+Confirmation Number: 809974c6
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Aadvika Pandey
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 19
+Event Date: 1/22/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $68.45
+Confirmation Number: e38dae7c
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Daniel Morales
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Liberty (Football)
+Event Date: 11/21/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $627.43
+Confirmation Number: 4cb69f0f
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Daniel Morales
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 2
+Event Date: 1/9/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $186.30
+Confirmation Number: 542ab105
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Daniel Morales
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 16
+Event Date: 1/10/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $30.63
+Confirmation Number: 85142b43
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Daniel Morales
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 12
+Event Date: 12/27/2025
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $99.59
+Confirmation Number: 11d72961
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

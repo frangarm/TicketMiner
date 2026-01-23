@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Matthieu Enriquez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Cook-Off
+Event Date: 9/20/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $595.37
+Confirmation Number: 7ba100e0
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Matthieu Enriquez
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Summer Bash
+Event Date: 6/15/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $160.75
+Confirmation Number: aecd4956
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Matthieu Enriquez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 24
+Event Date: 2/7/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $128.64
+Confirmation Number: af6d9040
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Matthieu Enriquez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 16
+Event Date: 1/10/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $53.07
+Confirmation Number: 26489ca9
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

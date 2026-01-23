@@ -1,0 +1,66 @@
+Customer Receipt Summary for: Mulan Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Cook-Off
+Event Date: 9/20/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $528.79
+Confirmation Number: 79c685ab
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Mulan Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 23
+Event Date: 2/5/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $27.35
+Confirmation Number: c36df328
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Mulan Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 4
+Event Date: 5/20/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $54.76
+Confirmation Number: 0f1c1f7f
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Mulan Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Louisiana Tech (Basketball)
+Event Date: 1/28/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $463.02
+Confirmation Number: 671fa33e
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Mulan Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 16
+Event Date: 1/10/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $136.86
+Confirmation Number: f13a7fc3
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Mulan Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Film Fest
+Event Date: 11/15/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $210.93
+Confirmation Number: 09ac1fcc
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

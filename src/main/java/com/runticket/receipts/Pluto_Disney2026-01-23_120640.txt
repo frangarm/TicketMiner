@@ -1,0 +1,88 @@
+Customer Receipt Summary for: Pluto Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 8
+Event Date: 12/13/2025
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $111.83
+Confirmation Number: 83efbd71
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Pluto Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 19
+Event Date: 1/22/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $136.04
+Confirmation Number: 05330332
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Pluto Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 12/22/2025
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $2.70
+Confirmation Number: 58200e5d
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Pluto Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 4
+Event Date: 11/29/2025
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $27.87
+Confirmation Number: 2f721596
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Pluto Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Tech Expo
+Event Date: 3/22/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $180.50
+Confirmation Number: 6f2a740c
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Pluto Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 7
+Event Date: 4/16/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $119.98
+Confirmation Number: f8f5fd96
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Pluto Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. North Texas (Basketball)
+Event Date: 2/17/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $195.31
+Confirmation Number: b7bd5e55
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Pluto Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Women’s Soccer vs. NMSU
+Event Date: 8/28/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $136.04
+Confirmation Number: 81088e31
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

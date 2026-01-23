@@ -1,0 +1,99 @@
+Customer Receipt Summary for: Emmanuel Barraza-Villa
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 9
+Event Date: 3/28/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $49.00
+Confirmation Number: e96156ef
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Emmanuel Barraza-Villa
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 14
+Event Date: 1/3/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $153.81
+Confirmation Number: b2217794
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Emmanuel Barraza-Villa
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 16
+Event Date: 1/10/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $170.62
+Confirmation Number: 96e5ac3b
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Emmanuel Barraza-Villa
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Summer Bash
+Event Date: 6/15/2026
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $387.93
+Confirmation Number: 3d64702b
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Emmanuel Barraza-Villa
+--------------------------------------
+Event Type: Festival
+Event Name: Coachella 1
+Event Date: 2/8/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $990.48
+Confirmation Number: 8f92e208
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Emmanuel Barraza-Villa
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 6
+Event Date: 10/9/2025
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $56.04
+Confirmation Number: ff4f4a42
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Emmanuel Barraza-Villa
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 2
+Event Date: 1/9/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $73.07
+Confirmation Number: 73452a2c
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Emmanuel Barraza-Villa
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 6
+Event Date: 12/6/2025
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $53.07
+Confirmation Number: fe4cadf0
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Emmanuel Barraza-Villa
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 3
+Event Date: 11/27/2025
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $91.60
+Confirmation Number: e4e813e6
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

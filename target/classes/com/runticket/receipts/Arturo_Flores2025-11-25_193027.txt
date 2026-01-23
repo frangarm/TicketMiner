@@ -1,0 +1,99 @@
+Customer Receipt Summary for: Arturo Flores
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 18
+Event Date: 1/17/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $235.59
+Confirmation Number: 6de440b3
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Arturo Flores
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 15
+Event Date: 1/8/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $101.34
+Confirmation Number: d80f5ea0
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Arturo Flores
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 1
+Event Date: 11/20/2025
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $61.88
+Confirmation Number: 3bb4ed57
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Arturo Flores
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 30
+Event Date: 2/28/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $49.28
+Confirmation Number: 48b4c1e9
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Arturo Flores
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 9
+Event Date: 12/18/2025
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $43.78
+Confirmation Number: f1675ef4
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Arturo Flores
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. SMU (Football)
+Event Date: 9/5/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $30.08
+Confirmation Number: 4c7e0f59
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Arturo Flores
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 2
+Event Date: 11/22/2025
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $142.43
+Confirmation Number: a5353f88
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Arturo Flores
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Food & Brew Festival
+Event Date: 8/15/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $528.79
+Confirmation Number: 66f770c4
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Arturo Flores
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 1
+Event Date: 11/20/2025
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $61.88
+Confirmation Number: 5b6ddd60
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

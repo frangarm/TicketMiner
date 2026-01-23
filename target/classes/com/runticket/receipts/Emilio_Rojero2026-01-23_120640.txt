@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Emilio Rojero
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 3
+Event Date: 5/28/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $135.44
+Confirmation Number: d4ba048e
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Emilio Rojero
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Spring Music Fest
+Event Date: 4/20/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $284.22
+Confirmation Number: d2511c60
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Emilio Rojero
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Tech Expo
+Event Date: 3/22/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $437.31
+Confirmation Number: a3c0aff2
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Emilio Rojero
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 10
+Event Date: 4/4/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $96.53
+Confirmation Number: 296254f5
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

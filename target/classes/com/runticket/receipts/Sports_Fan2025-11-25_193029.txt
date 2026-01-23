@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Sports Fan
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $2.70
+Confirmation Number: d4aa4b73
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Sports Fan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 9
+Event Date: 12/18/2025
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $76.78
+Confirmation Number: d1e8153d
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Sports Fan
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Philharmonic Strings
+Event Date: 11/21/2026
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $79.74
+Confirmation Number: 9240cace
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Sports Fan
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 5
+Event Date: 11/14/2025
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $85.44
+Confirmation Number: 51cb4eb4
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Sports Fan
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 2
+Event Date: 1/9/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $21.21
+Confirmation Number: d79620d4
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Sports Fan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 3
+Event Date: 9/18/2025
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $29.35
+Confirmation Number: db2352d2
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Sports Fan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UTSA (Football)
+Event Date: 10/10/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $91.60
+Confirmation Number: 5817d743
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

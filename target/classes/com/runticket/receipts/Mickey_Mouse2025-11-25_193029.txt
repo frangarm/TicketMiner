@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Mickey Mouse
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 6
+Event Date: 10/9/2025
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $56.04
+Confirmation Number: bba0350f
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Mickey Mouse
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 8
+Event Date: 12/13/2025
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $36.28
+Confirmation Number: f67530fc
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Mickey Mouse
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Philharmonic Strings
+Event Date: 11/21/2026
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $91.60
+Confirmation Number: 819b65e4
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

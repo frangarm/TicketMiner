@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Goofy Disney
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Holiday Market
+Event Date: 12/5/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $353.43
+Confirmation Number: cab2665f
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Goofy Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 8
+Event Date: 12/13/2025
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $30.63
+Confirmation Number: 590d2d64
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Goofy Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 13
+Event Date: 1/1/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $84.90
+Confirmation Number: ba710b78
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Goofy Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 20
+Event Date: 1/24/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $77.21
+Confirmation Number: 986f9d51
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

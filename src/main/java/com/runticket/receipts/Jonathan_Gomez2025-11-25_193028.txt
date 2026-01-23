@@ -1,0 +1,66 @@
+Customer Receipt Summary for: Jonathan Gomez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 18
+Event Date: 1/17/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $44.67
+Confirmation Number: 234015e8
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Jonathan Gomez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 23
+Event Date: 2/5/2026
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $79.74
+Confirmation Number: c624ed16
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Jonathan Gomez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 7
+Event Date: 10/16/2025
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $69.37
+Confirmation Number: 1fa1a4b1
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Jonathan Gomez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 11
+Event Date: 11/13/2025
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $65.90
+Confirmation Number: 35aeb833
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Jonathan Gomez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 9
+Event Date: 3/28/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $85.44
+Confirmation Number: 9e1fd6e7
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Jonathan Gomez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 5
+Event Date: 10/2/2025
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $109.37
+Confirmation Number: 94dc8b7d
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

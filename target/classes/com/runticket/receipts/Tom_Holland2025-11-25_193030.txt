@@ -1,0 +1,22 @@
+Customer Receipt Summary for: Tom Holland
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 23
+Event Date: 2/5/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $43.78
+Confirmation Number: 187b1735
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Tom Holland
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $2.70
+Confirmation Number: d75caf14
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

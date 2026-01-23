@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Cindy Zhu
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Film Fest
+Event Date: 11/15/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $57.49
+Confirmation Number: 7771a038
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Cindy Zhu
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 15
+Event Date: 1/8/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $45.42
+Confirmation Number: f9e19aec
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Cindy Zhu
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Philharmonic Strings
+Event Date: 11/21/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $19.12
+Confirmation Number: c2ee4e66
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

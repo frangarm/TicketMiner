@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. SMU (Football)
+Event Date: 9/5/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $299.04
+Confirmation Number: fc58cea1
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $49.00
+Confirmation Number: 69e9733f
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 9
+Event Date: 10/30/2025
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $64.34
+Confirmation Number: a31590b1
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 6
+Event Date: 12/6/2025
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $170.62
+Confirmation Number: 9610cf1a
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 17
+Event Date: 1/15/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $69.37
+Confirmation Number: 0adc66ed
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 4
+Event Date: 5/20/2026
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $95.32
+Confirmation Number: 34a5b6d7
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Jazz Ensemble Night
+Event Date: 3/25/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $121.23
+Confirmation Number: dc98d356
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

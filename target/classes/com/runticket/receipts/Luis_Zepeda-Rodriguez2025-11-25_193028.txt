@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Luis Zepeda-Rodriguez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 5
+Event Date: 12/4/2025
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $19.12
+Confirmation Number: 944aacb8
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Luis Zepeda-Rodriguez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Tech Expo
+Event Date: 3/22/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $243.82
+Confirmation Number: 5ca57a8d
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Luis Zepeda-Rodriguez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Volleyball vs. Rice
+Event Date: 11/8/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $57.49
+Confirmation Number: a74f8e0e
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Luis Zepeda-Rodriguez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 11
+Event Date: 12/25/2025
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $35.57
+Confirmation Number: f079332c
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

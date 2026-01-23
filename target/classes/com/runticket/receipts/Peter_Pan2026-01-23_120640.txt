@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Concert
+Event Name: Gloria Trevi Live in El Paso
+Event Date: 10/15/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $225.43
+Confirmation Number: ac3a8047
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $2.70
+Confirmation Number: ed77d597
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Women’s Soccer vs. NMSU
+Event Date: 8/28/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $12.56
+Confirmation Number: 0ca89aae
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 23
+Event Date: 2/5/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $91.60
+Confirmation Number: 03c44e9a
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. NMSU Aggies (Football)
+Event Date: 9/12/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $76.78
+Confirmation Number: 6cc2e7c2
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

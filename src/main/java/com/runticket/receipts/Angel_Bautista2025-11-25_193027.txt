@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Angel Bautista
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 30
+Event Date: 2/28/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $170.37
+Confirmation Number: fb4b43e7
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Angel Bautista
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 13
+Event Date: 1/1/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $101.34
+Confirmation Number: bf422e91
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Angel Bautista
+--------------------------------------
+Event Type: Festival
+Event Name: Minerpalooza
+Event Date: 11/1/2025
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $2.70
+Confirmation Number: 1c42b5d2
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Angel Bautista
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 7
+Event Date: 10/16/2025
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $101.34
+Confirmation Number: d9bed434
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Angel Bautista
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 12/22/2025
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $2.70
+Confirmation Number: 7b541f11
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Angel Bautista
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Film Fest
+Event Date: 11/15/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $178.06
+Confirmation Number: a6ac9ce7
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Angel Bautista
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Spring Music Fest
+Event Date: 4/20/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $243.82
+Confirmation Number: ebcca207
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

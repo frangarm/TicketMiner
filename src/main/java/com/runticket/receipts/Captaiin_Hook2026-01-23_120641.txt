@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Captaiin Hook
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Farmers Market
+Event Date: 4/11/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $79.42
+Confirmation Number: f9234b12
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Captaiin Hook
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $30.08
+Confirmation Number: 718df830
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Captaiin Hook
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 12
+Event Date: 11/20/2025
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $116.68
+Confirmation Number: b52a0290
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Captaiin Hook
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $105.48
+Confirmation Number: de2db70e
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Captaiin Hook
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 19
+Event Date: 1/22/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $167.09
+Confirmation Number: 1054e071
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Captaiin Hook
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Farmers Market
+Event Date: 4/11/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $134.22
+Confirmation Number: cf259859
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Captaiin Hook
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 18
+Event Date: 1/17/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $51.14
+Confirmation Number: 2282768f
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

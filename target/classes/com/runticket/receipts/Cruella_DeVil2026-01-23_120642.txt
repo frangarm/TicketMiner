@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Cruella DeVil
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 3
+Event Date: 11/27/2025
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $101.34
+Confirmation Number: 28859d7e
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Cruella DeVil
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Pride Week
+Event Date: 10/3/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $46.53
+Confirmation Number: 680c35a6
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Cruella DeVil
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Louisiana Tech (Basketball)
+Event Date: 1/28/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $68.45
+Confirmation Number: 9d09fd79
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Cruella DeVil
+--------------------------------------
+Event Type: Festival
+Event Name: Minerpalooza
+Event Date: 11/1/2025
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $2.70
+Confirmation Number: cd137e9d
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Cruella DeVil
+--------------------------------------
+Event Type: Festival
+Event Name: Minerpalooza
+Event Date: 11/1/2025
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $2.70
+Confirmation Number: 21a81378
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

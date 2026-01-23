@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Pluto Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Jazz Ensemble Night
+Event Date: 3/25/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $81.71
+Confirmation Number: 4a270ece
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Pluto Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 5
+Event Date: 12/4/2025
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $69.37
+Confirmation Number: 75982a16
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Pluto Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. New Mexico (Basketball)
+Event Date: 12/10/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $61.96
+Confirmation Number: 09d0afed
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Pluto Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 8
+Event Date: 10/23/2025
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $230.28
+Confirmation Number: 6053895c
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

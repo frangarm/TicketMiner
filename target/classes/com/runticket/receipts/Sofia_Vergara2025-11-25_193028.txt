@@ -1,0 +1,22 @@
+Customer Receipt Summary for: Sofia Vergara
+--------------------------------------
+Event Type: Concert
+Event Name: Drake Live
+Event Date: 3/28/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $2127.13
+Confirmation Number: eabc3b3d
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Sofia Vergara
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 22
+Event Date: 1/31/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $189.02
+Confirmation Number: 5dc1bed8
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Minnie Mouse
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 17
+Event Date: 1/15/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $150.65
+Confirmation Number: bb0f37cd
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Minnie Mouse
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $2.70
+Confirmation Number: 26f3f4dd
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Minnie Mouse
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $150.65
+Confirmation Number: e70dd634
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Minnie Mouse
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Tech Expo
+Event Date: 3/22/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $199.99
+Confirmation Number: 7d408f3a
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Minnie Mouse
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 5
+Event Date: 11/14/2025
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $186.30
+Confirmation Number: d0578436
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Minnie Mouse
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Liberty (Football)
+Event Date: 11/21/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $419.18
+Confirmation Number: f59130f2
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Minnie Mouse
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 4
+Event Date: 5/20/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $106.82
+Confirmation Number: 25c81fc7
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

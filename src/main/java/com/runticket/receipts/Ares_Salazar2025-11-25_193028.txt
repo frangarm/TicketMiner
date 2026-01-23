@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Ares Salazar
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $19.83
+Confirmation Number: eb1827d0
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Ares Salazar
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $143.78
+Confirmation Number: dded0c7f
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Ares Salazar
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Lights Winter Fest
+Event Date: 12/12/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $397.26
+Confirmation Number: a595c04b
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Ares Salazar
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. SMU (Football)
+Event Date: 9/5/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $484.95
+Confirmation Number: 02da004c
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Ares Salazar
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Fest 2026
+Event Date: 4/27/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $1153.51
+Confirmation Number: 0461d760
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

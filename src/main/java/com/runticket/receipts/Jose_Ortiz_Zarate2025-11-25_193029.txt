@@ -1,0 +1,66 @@
+Customer Receipt Summary for: Jose Ortiz Zarate
+--------------------------------------
+Event Type: Festival
+Event Name: EDC
+Event Date: 5/11/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $91.60
+Confirmation Number: dce38e97
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Jose Ortiz Zarate
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Women’s Soccer vs. NMSU
+Event Date: 8/28/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $52.07
+Confirmation Number: d415f114
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Jose Ortiz Zarate
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $2.70
+Confirmation Number: 84fe4f7d
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Jose Ortiz Zarate
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UTSA (Football)
+Event Date: 10/10/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $279.27
+Confirmation Number: 16d4d594
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Jose Ortiz Zarate
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 7
+Event Date: 12/11/2025
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $47.15
+Confirmation Number: 9432c307
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Jose Ortiz Zarate
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 11
+Event Date: 11/13/2025
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $121.23
+Confirmation Number: 577feaa3
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

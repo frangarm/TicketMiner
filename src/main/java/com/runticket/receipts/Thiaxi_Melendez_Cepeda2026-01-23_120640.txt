@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Thiaxi Melendez Cepeda
+--------------------------------------
+Event Type: Festival
+Event Name: Coachella 2
+Event Date: 10/21/2025
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $1646.75
+Confirmation Number: 5d501429
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Thiaxi Melendez Cepeda
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Louisiana Tech (Basketball)
+Event Date: 1/28/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $35.57
+Confirmation Number: a0bc0192
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Thiaxi Melendez Cepeda
+--------------------------------------
+Event Type: Festival
+Event Name: EDC
+Event Date: 5/11/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $660.32
+Confirmation Number: 70687ebb
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Thiaxi Melendez Cepeda
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 5
+Event Date: 11/14/2025
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $16.39
+Confirmation Number: 9f8d4a85
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

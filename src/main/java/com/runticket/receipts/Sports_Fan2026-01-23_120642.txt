@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Sports Fan
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $26.14
+Confirmation Number: 436ce666
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Sports Fan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Louisiana Tech (Basketball)
+Event Date: 1/28/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $71.84
+Confirmation Number: 4b156d9b
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Sports Fan
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $2.70
+Confirmation Number: 4821f795
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

@@ -1,0 +1,154 @@
+Customer Receipt Summary for: Mulan Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 8
+Event Date: 3/3/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $48.60
+Confirmation Number: a28920d9
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Mulan Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UTSA (Football)
+Event Date: 10/10/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $309.58
+Confirmation Number: 569ac85a
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Mulan Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 28
+Event Date: 2/21/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $69.76
+Confirmation Number: ea72875d
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Mulan Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 30
+Event Date: 2/28/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $58.59
+Confirmation Number: f34ab0da
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Mulan Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 10
+Event Date: 4/4/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $61.60
+Confirmation Number: bd42af13
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Mulan Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Spring Carnival
+Event Date: 3/14/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $199.99
+Confirmation Number: c3573739
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Mulan Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 11
+Event Date: 12/25/2025
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $66.81
+Confirmation Number: 7bec1266
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Mulan Disney
+--------------------------------------
+Event Type: Concert
+Event Name: Gloria Trevi Live in El Paso
+Event Date: 10/15/2026
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $991.30
+Confirmation Number: 49a02057
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Mulan Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 1
+Event Date: 11/20/2025
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $84.90
+Confirmation Number: f46c8f69
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Mulan Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 4
+Event Date: 5/20/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $23.25
+Confirmation Number: e8118b35
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Mulan Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $255.87
+Confirmation Number: 33bdf393
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Mulan Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 4
+Event Date: 9/25/2025
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $101.34
+Confirmation Number: 6abf7522
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Mulan Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 13
+Event Date: 11/27/2025
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $61.88
+Confirmation Number: e7c0bb3f
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Mulan Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 6
+Event Date: 12/6/2025
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $49.28
+Confirmation Number: fd455e11
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

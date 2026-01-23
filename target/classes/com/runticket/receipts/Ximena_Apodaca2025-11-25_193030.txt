@@ -1,0 +1,110 @@
+Customer Receipt Summary for: Ximena Apodaca
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 15
+Event Date: 1/8/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $45.42
+Confirmation Number: e841f78d
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Ximena Apodaca
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 9
+Event Date: 3/28/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $36.95
+Confirmation Number: 8d81c1d6
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Ximena Apodaca
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 11
+Event Date: 12/25/2025
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $150.65
+Confirmation Number: d54dca5d
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Ximena Apodaca
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 12/22/2025
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $2.70
+Confirmation Number: 0dd25459
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Ximena Apodaca
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Fest 2026
+Event Date: 4/27/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $276.69
+Confirmation Number: e72e3551
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Ximena Apodaca
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 1
+Event Date: 11/30/2025
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $32.16
+Confirmation Number: e8577aa3
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Ximena Apodaca
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. New Mexico (Basketball)
+Event Date: 12/10/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $68.45
+Confirmation Number: c3052abd
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Ximena Apodaca
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $54.76
+Confirmation Number: 0386f52c
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Ximena Apodaca
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $2.70
+Confirmation Number: 076b8662
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Ximena Apodaca
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Jazz Ensemble Night
+Event Date: 3/25/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $13.66
+Confirmation Number: d91f5fcb
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

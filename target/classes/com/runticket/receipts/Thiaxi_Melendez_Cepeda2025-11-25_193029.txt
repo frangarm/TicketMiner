@@ -1,0 +1,121 @@
+Customer Receipt Summary for: Thiaxi Melendez Cepeda
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. New Mexico (Basketball)
+Event Date: 12/10/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $101.34
+Confirmation Number: 9e189fcd
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Thiaxi Melendez Cepeda
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. New Mexico (Basketball)
+Event Date: 12/10/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $79.42
+Confirmation Number: 8428151b
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Thiaxi Melendez Cepeda
+--------------------------------------
+Event Type: Festival
+Event Name: Lollapallooza
+Event Date: 5/11/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $660.32
+Confirmation Number: 12808b3a
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Thiaxi Melendez Cepeda
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 26
+Event Date: 2/14/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $69.76
+Confirmation Number: 994f4da7
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Thiaxi Melendez Cepeda
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Volleyball vs. Rice
+Event Date: 11/8/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $139.69
+Confirmation Number: 5bf470e0
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Thiaxi Melendez Cepeda
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 24
+Event Date: 2/7/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $26.92
+Confirmation Number: a5a68cd5
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Thiaxi Melendez Cepeda
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 2
+Event Date: 11/22/2025
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $58.59
+Confirmation Number: 7be50287
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Thiaxi Melendez Cepeda
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Farmers Market
+Event Date: 4/11/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $413.69
+Confirmation Number: 7981ff37
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Thiaxi Melendez Cepeda
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 25
+Event Date: 2/12/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $52.02
+Confirmation Number: b432c55c
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Thiaxi Melendez Cepeda
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 22
+Event Date: 1/31/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $189.02
+Confirmation Number: 8900cb19
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Thiaxi Melendez Cepeda
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $2.70
+Confirmation Number: cbec6ccf
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

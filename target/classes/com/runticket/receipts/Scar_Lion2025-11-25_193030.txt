@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Scar Lion
+--------------------------------------
+Event Type: Festival
+Event Name: Minerpalooza
+Event Date: 11/1/2025
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $2.70
+Confirmation Number: aec58f81
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

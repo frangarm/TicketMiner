@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Fiesta Latina
+Event Date: 5/5/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $42.21
+Confirmation Number: f6f5be79
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 4
+Event Date: 9/25/2025
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $144.91
+Confirmation Number: 8ab79555
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 11
+Event Date: 11/13/2025
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $73.80
+Confirmation Number: b1f6394e
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

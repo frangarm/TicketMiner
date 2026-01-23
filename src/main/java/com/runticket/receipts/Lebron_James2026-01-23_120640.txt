@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Lebron James
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 8
+Event Date: 3/3/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $96.53
+Confirmation Number: 68d62874
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Lebron James
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $230.87
+Confirmation Number: 9158ea96
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Lebron James
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Tech Expo
+Event Date: 3/22/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $121.23
+Confirmation Number: 367de72b
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

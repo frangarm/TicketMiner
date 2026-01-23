@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Pluto Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 2
+Event Date: 11/22/2025
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $68.18
+Confirmation Number: b80cce9a
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Pluto Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 3
+Event Date: 9/18/2025
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $32.32
+Confirmation Number: 7f373c57
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Pluto Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. SMU (Football)
+Event Date: 9/5/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $121.23
+Confirmation Number: 53f17b76
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

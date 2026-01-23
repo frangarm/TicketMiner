@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Luis Armado
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 1
+Event Date: 11/30/2025
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $36.95
+Confirmation Number: 942031dd
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

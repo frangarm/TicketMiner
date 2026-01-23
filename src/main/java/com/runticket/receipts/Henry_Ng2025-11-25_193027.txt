@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Henry Ng
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Lights Winter Fest
+Event Date: 12/12/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $413.69
+Confirmation Number: f4226d55
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Henry Ng
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $71.20
+Confirmation Number: ef8042cf
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Henry Ng
+--------------------------------------
+Event Type: Concert
+Event Name: Bad Bunny Live
+Event Date: 11/11/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $2666.77
+Confirmation Number: 6f9d0d26
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

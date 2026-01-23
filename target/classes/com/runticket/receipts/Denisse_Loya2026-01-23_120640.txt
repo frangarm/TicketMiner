@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 18
+Event Date: 1/17/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $26.92
+Confirmation Number: 610f2a33
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Concert
+Event Name: Drake Live
+Event Date: 3/28/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $4039.17
+Confirmation Number: 7e8fa98c
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 27
+Event Date: 2/19/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $109.54
+Confirmation Number: 622d6fac
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Volleyball vs. Rice
+Event Date: 11/8/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $167.09
+Confirmation Number: 59d6b347
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

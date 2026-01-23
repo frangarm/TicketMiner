@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Fernando Guzman
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Film Fest
+Event Date: 11/15/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $523.31
+Confirmation Number: 14c3bab5
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Fernando Guzman
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Women’s Soccer vs. NMSU
+Event Date: 8/28/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $61.88
+Confirmation Number: f6cb5aa3
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Fernando Guzman
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 1
+Event Date: 11/20/2025
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $101.34
+Confirmation Number: ddb64235
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Fernando Guzman
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $30.92
+Confirmation Number: 4309f7a5
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Fernando Guzman
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UTSA (Football)
+Event Date: 10/10/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $309.58
+Confirmation Number: ee93ff8c
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 1
+Event Date: 11/20/2025
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $91.60
+Confirmation Number: 5a8d6541
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 2
+Event Date: 11/22/2025
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $46.35
+Confirmation Number: 54733731
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 21
+Event Date: 1/29/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $32.32
+Confirmation Number: 0aa58f68
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 26
+Event Date: 2/14/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $19.49
+Confirmation Number: e3890804
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 27
+Event Date: 2/19/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $32.32
+Confirmation Number: 767e985a
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Concert
+Event Name: Banda MS Tour 2026
+Event Date: 9/4/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $743.52
+Confirmation Number: fd227b51
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Festival
+Event Name: ACL
+Event Date: 5/2/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $200.25
+Confirmation Number: 31196399
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

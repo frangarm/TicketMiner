@@ -1,0 +1,22 @@
+Customer Receipt Summary for: Armando Levario Alvarez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UT Arlington (Basketball)
+Event Date: 1/17/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $76.78
+Confirmation Number: 9b1f7e83
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Armando Levario Alvarez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Film Fest
+Event Date: 11/15/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $52.07
+Confirmation Number: 27db8dc8
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

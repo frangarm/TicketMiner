@@ -1,0 +1,66 @@
+Customer Receipt Summary for: Sam Alderete
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 24
+Event Date: 2/7/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $95.85
+Confirmation Number: c64c7bd3
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Sam Alderete
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Film Fest
+Event Date: 11/15/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $210.93
+Confirmation Number: bdd5e938
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Sam Alderete
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Women’s Soccer vs. NMSU
+Event Date: 8/28/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $298.62
+Confirmation Number: faa4a313
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Sam Alderete
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 9
+Event Date: 3/28/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $28.71
+Confirmation Number: a3af7307
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Sam Alderete
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 2
+Event Date: 1/9/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $19.83
+Confirmation Number: acde95e4
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Sam Alderete
+--------------------------------------
+Event Type: Festival
+Event Name: ACL
+Event Date: 5/2/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $419.18
+Confirmation Number: b77c1b02
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

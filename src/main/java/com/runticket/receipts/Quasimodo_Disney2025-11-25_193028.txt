@@ -1,0 +1,88 @@
+Customer Receipt Summary for: Quasimodo Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 11
+Event Date: 12/25/2025
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $84.90
+Confirmation Number: 39a94677
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Quasimodo Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $54.07
+Confirmation Number: 5e94abb5
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Quasimodo Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 10
+Event Date: 4/4/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $232.19
+Confirmation Number: 1d1d5723
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Quasimodo Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 2
+Event Date: 11/22/2025
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $77.21
+Confirmation Number: d0be9e1c
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Quasimodo Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Cook-Off
+Event Date: 9/20/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $232.86
+Confirmation Number: fa99ab13
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Quasimodo Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. NMSU Aggies (Football)
+Event Date: 9/12/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $67.07
+Confirmation Number: 86d93b60
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Quasimodo Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Film Fest
+Event Date: 11/15/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $249.31
+Confirmation Number: 7b142123
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Quasimodo Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Women’s Soccer vs. NMSU
+Event Date: 8/28/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $57.49
+Confirmation Number: 41f12348
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

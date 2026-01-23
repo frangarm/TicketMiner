@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Cia Martin
+--------------------------------------
+Event Type: Concert
+Event Name: Shakira World Tour 2026
+Event Date: 10/9/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $1920.73
+Confirmation Number: 0cd8b12c
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Cia Martin
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 7
+Event Date: 10/16/2025
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $101.34
+Confirmation Number: 9ca308be
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Cia Martin
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 7
+Event Date: 12/11/2025
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $150.65
+Confirmation Number: 4c6bd5de
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Cia Martin
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 9
+Event Date: 12/18/2025
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $19.12
+Confirmation Number: 12e615a3
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

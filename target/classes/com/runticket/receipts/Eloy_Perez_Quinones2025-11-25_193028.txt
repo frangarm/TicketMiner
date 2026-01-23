@@ -1,0 +1,121 @@
+Customer Receipt Summary for: Eloy Perez Quinones
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 13
+Event Date: 1/1/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $126.00
+Confirmation Number: 28c87dad
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Eloy Perez Quinones
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Volleyball vs. Rice
+Event Date: 11/8/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $199.99
+Confirmation Number: a718854d
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Eloy Perez Quinones
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Choir Holiday Gala
+Event Date: 12/2/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $107.92
+Confirmation Number: e7be7a8a
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Eloy Perez Quinones
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Cultural Arts Festival
+Event Date: 3/8/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $298.62
+Confirmation Number: d31d3c19
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Eloy Perez Quinones
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 9
+Event Date: 3/28/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $54.76
+Confirmation Number: 95eba421
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Eloy Perez Quinones
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 10
+Event Date: 4/4/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $88.35
+Confirmation Number: a329f980
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Eloy Perez Quinones
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Louisiana Tech (Basketball)
+Event Date: 1/28/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $276.69
+Confirmation Number: a4391be1
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Eloy Perez Quinones
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Farmers Market
+Event Date: 4/11/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $24.62
+Confirmation Number: c05b9bae
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Eloy Perez Quinones
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Summer Bash
+Event Date: 6/15/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $287.67
+Confirmation Number: 7fc7b7e9
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Eloy Perez Quinones
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 7
+Event Date: 12/11/2025
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $109.54
+Confirmation Number: c8159222
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Eloy Perez Quinones
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Jazz Ensemble Night
+Event Date: 3/25/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $24.62
+Confirmation Number: 84cc254c
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Luis Zepeda-Rodriguez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UTSA (Football)
+Event Date: 10/10/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $123.26
+Confirmation Number: 6fcce8dc
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Luis Zepeda-Rodriguez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UAB (Football)
+Event Date: 9/19/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $112.29
+Confirmation Number: ac7de7cf
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Luis Zepeda-Rodriguez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $68.45
+Confirmation Number: 14d6b2cc
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Luis Zepeda-Rodriguez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 27
+Event Date: 2/19/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $43.78
+Confirmation Number: 10b4c226
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

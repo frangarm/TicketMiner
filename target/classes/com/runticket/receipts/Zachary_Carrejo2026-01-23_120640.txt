@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Zachary Carrejo
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 7
+Event Date: 4/16/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $28.71
+Confirmation Number: 422270b1
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Zachary Carrejo
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 13
+Event Date: 11/27/2025
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $215.75
+Confirmation Number: 3b8412fd
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Zachary Carrejo
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Summer Bash
+Event Date: 6/15/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $298.62
+Confirmation Number: 2caaf3fa
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

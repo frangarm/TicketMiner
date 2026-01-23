@@ -1,0 +1,88 @@
+Customer Receipt Summary for: Russel Westbrook
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 3
+Event Date: 9/18/2025
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $45.42
+Confirmation Number: fd472b3e
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Russel Westbrook
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Louisiana Tech (Basketball)
+Event Date: 1/28/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $167.09
+Confirmation Number: a54417d0
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Russel Westbrook
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 7
+Event Date: 4/16/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $88.35
+Confirmation Number: 19b45944
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Russel Westbrook
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Fest 2026
+Event Date: 4/27/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $468.50
+Confirmation Number: e787c14f
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Russel Westbrook
+--------------------------------------
+Event Type: Concert
+Event Name: Olivia Rodrigo Live
+Event Date: 5/26/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $4646.24
+Confirmation Number: 7faf15bd
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Russel Westbrook
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $2.70
+Confirmation Number: 414e81d2
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Russel Westbrook
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Cook-Off
+Event Date: 9/20/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $178.06
+Confirmation Number: fd8d751f
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Russel Westbrook
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 25
+Event Date: 2/12/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $19.12
+Confirmation Number: 857bb667
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Deep Learning
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $52.02
+Confirmation Number: 56aee93a
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Deep Learning
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 13
+Event Date: 11/27/2025
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $121.06
+Confirmation Number: 40b7e699
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Deep Learning
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 5
+Event Date: 11/14/2025
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $120.53
+Confirmation Number: 8ce30ee6
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

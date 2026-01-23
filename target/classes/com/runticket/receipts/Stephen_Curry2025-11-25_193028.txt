@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Stephen Curry
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Western Kentucky (Basketball)
+Event Date: 2/14/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $195.31
+Confirmation Number: 12c143c4
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Stephen Curry
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 20
+Event Date: 1/24/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $53.07
+Confirmation Number: 45144e07
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Stephen Curry
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Lights Winter Fest
+Event Date: 12/12/2026
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $224.94
+Confirmation Number: 7ab0d106
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Stephen Curry
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Fiesta Latina
+Event Date: 5/5/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $180.50
+Confirmation Number: 4b7413fd
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Stephen Curry
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 7
+Event Date: 4/16/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $96.53
+Confirmation Number: 1a6bc1fa
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

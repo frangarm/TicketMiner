@@ -1,0 +1,88 @@
+Customer Receipt Summary for: Aurora Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 20
+Event Date: 1/24/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $128.64
+Confirmation Number: e26fa05b
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Aurora Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 16
+Event Date: 1/10/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $68.18
+Confirmation Number: 7c37d0c9
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Aurora Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 18
+Event Date: 1/17/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $53.07
+Confirmation Number: 7166ec65
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Aurora Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 11
+Event Date: 11/13/2025
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $81.71
+Confirmation Number: d82c3872
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Aurora Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 11
+Event Date: 11/13/2025
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $43.78
+Confirmation Number: 71457c73
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Aurora Disney
+--------------------------------------
+Event Type: Concert
+Event Name: Karol G Live
+Event Date: 4/29/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $1978.80
+Confirmation Number: bc64cba2
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Aurora Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $2.70
+Confirmation Number: 232da73a
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Aurora Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 28
+Event Date: 2/21/2026
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $90.00
+Confirmation Number: cbf6407d
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Simba King
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $199.99
+Confirmation Number: d5e5857a
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Simba King
+--------------------------------------
+Event Type: Concert
+Event Name: Gloria Trevi Live in El Paso
+Event Date: 10/15/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $249.84
+Confirmation Number: 18cbc23d
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Simba King
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 7
+Event Date: 10/16/2025
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $121.06
+Confirmation Number: d9a3464a
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Simba King
+--------------------------------------
+Event Type: Concert
+Event Name: Los Ángeles Azules en Concierto
+Event Date: 9/18/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $1783.74
+Confirmation Number: 8780330e
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

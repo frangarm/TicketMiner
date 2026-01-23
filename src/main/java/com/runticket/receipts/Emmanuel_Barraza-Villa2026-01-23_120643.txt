@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Emmanuel Barraza-Villa
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $2.70
+Confirmation Number: 5a48d429
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Emmanuel Barraza-Villa
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $2.70
+Confirmation Number: 7768423d
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Emmanuel Barraza-Villa
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $2.70
+Confirmation Number: 5f2f426d
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------

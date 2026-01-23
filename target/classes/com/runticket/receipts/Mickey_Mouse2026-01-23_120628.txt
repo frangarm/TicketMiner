@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Mickey Mouse
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $109.37
+Confirmation Number: 985a77dd
+Purchase Date: 2026-01-23 12:06:28
+--------------------------------------

@@ -1,0 +1,110 @@
+Customer Receipt Summary for: Buzz Lightyear
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Holiday Market
+Event Date: 12/5/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $22.46
+Confirmation Number: 9665e144
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Buzz Lightyear
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Women’s Soccer vs. NMSU
+Event Date: 8/28/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $140.99
+Confirmation Number: e31d304a
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Buzz Lightyear
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 7
+Event Date: 4/16/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $55.81
+Confirmation Number: 7b215f97
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Buzz Lightyear
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 10
+Event Date: 12/20/2025
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $63.15
+Confirmation Number: 87f1b30e
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Buzz Lightyear
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 10
+Event Date: 11/6/2025
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $64.34
+Confirmation Number: f3b7156b
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Buzz Lightyear
+--------------------------------------
+Event Type: Concert
+Event Name: Los Ángeles Azules en Concierto
+Event Date: 9/18/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $965.76
+Confirmation Number: 438bfbb3
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Buzz Lightyear
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $108.88
+Confirmation Number: cdc29afe
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Buzz Lightyear
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 9
+Event Date: 10/30/2025
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $121.23
+Confirmation Number: e46a569d
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Buzz Lightyear
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 5
+Event Date: 12/4/2025
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $91.60
+Confirmation Number: 04f31a3e
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Buzz Lightyear
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 12
+Event Date: 3/22/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $8.85
+Confirmation Number: 4de03bfe
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

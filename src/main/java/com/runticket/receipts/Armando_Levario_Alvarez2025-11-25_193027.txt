@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Armando Levario Alvarez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 28
+Event Date: 2/21/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $212.59
+Confirmation Number: 4bb8db94
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Armando Levario Alvarez
+--------------------------------------
+Event Type: Concert
+Event Name: Grupo Frontera Tour 2026
+Event Date: 7/22/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $1484.36
+Confirmation Number: 20f1dbe1
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Armando Levario Alvarez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 2
+Event Date: 1/9/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $162.00
+Confirmation Number: 24725a33
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Armando Levario Alvarez
+--------------------------------------
+Event Type: Festival
+Event Name: EDC
+Event Date: 5/11/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $17.50
+Confirmation Number: d799c786
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Armando Levario Alvarez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Volleyball vs. Rice
+Event Date: 11/8/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $71.84
+Confirmation Number: 50e2ca8f
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Armando Levario Alvarez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 12/22/2025
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $2.70
+Confirmation Number: 1ab1bfff
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Armando Levario Alvarez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $2.70
+Confirmation Number: a30555dc
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

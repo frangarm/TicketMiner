@@ -1,0 +1,66 @@
+Customer Receipt Summary for: Ariel Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $42.21
+Confirmation Number: adf7d51d
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Ariel Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 8
+Event Date: 10/23/2025
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $59.60
+Confirmation Number: 78b5a55e
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Ariel Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 5
+Event Date: 11/14/2025
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $96.53
+Confirmation Number: ba70f369
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Ariel Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 12
+Event Date: 3/22/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $8.85
+Confirmation Number: 29acc700
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Ariel Disney
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Lights Winter Fest
+Event Date: 12/12/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $91.60
+Confirmation Number: 0e89101c
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Ariel Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UAB (Football)
+Event Date: 9/19/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $140.99
+Confirmation Number: f6f5f88f
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

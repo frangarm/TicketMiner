@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Evil Queen
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $9.26
+Confirmation Number: 6bce1232
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

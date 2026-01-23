@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Mufassa Disney
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Food & Brew Festival
+Event Date: 8/15/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $595.37
+Confirmation Number: b2d228d1
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Mufassa Disney
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Lights Winter Fest
+Event Date: 12/12/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $121.23
+Confirmation Number: 71de1692
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Mufassa Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 11
+Event Date: 11/13/2025
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $50.10
+Confirmation Number: fefb5ef5
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Mufassa Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 3
+Event Date: 5/28/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $27.38
+Confirmation Number: db8a1108
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Mufassa Disney
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Fest 2026
+Event Date: 4/27/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $175.55
+Confirmation Number: 62cb081d
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

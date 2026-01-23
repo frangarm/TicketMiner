@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Jonus Ronquillo
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 25
+Event Date: 2/12/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $113.82
+Confirmation Number: fab132f2
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Jonus Ronquillo
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 9
+Event Date: 3/28/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $49.00
+Confirmation Number: 2acab0d4
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Jonus Ronquillo
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 3
+Event Date: 5/28/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $26.14
+Confirmation Number: f8ca3f42
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Jonus Ronquillo
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Lights Winter Fest
+Event Date: 12/12/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $239.77
+Confirmation Number: b9b71d51
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Jonus Ronquillo
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UAB (Football)
+Event Date: 9/19/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $713.89
+Confirmation Number: e6f9adad
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Jonus Ronquillo
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 13
+Event Date: 1/1/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $162.73
+Confirmation Number: 2ee3fe54
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Jonus Ronquillo
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 7
+Event Date: 10/16/2025
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $24.92
+Confirmation Number: 71c82d83
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

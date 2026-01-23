@@ -1,0 +1,66 @@
+Customer Receipt Summary for: Tom Holland
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. NMSU Aggies (Football)
+Event Date: 9/12/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $542.48
+Confirmation Number: 684ab869
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Tom Holland
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 12
+Event Date: 11/20/2025
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $265.75
+Confirmation Number: 86603cff
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Tom Holland
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Cultural Arts Festival
+Event Date: 3/8/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $57.49
+Confirmation Number: d6d27f01
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Tom Holland
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 6
+Event Date: 1/8/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $48.60
+Confirmation Number: c7dc9343
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Tom Holland
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 10
+Event Date: 4/4/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $9.54
+Confirmation Number: ed4e17d2
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Tom Holland
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 10
+Event Date: 11/6/2025
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $55.31
+Confirmation Number: 4f80a20e
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

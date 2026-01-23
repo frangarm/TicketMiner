@@ -1,0 +1,88 @@
+Customer Receipt Summary for: Tenzin Draduk
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 21
+Event Date: 1/29/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $76.78
+Confirmation Number: 558a58eb
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Tenzin Draduk
+--------------------------------------
+Event Type: Concert
+Event Name: RBD Live
+Event Date: 2/18/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $3288.14
+Confirmation Number: 474e8369
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Tenzin Draduk
+--------------------------------------
+Event Type: Festival
+Event Name: Minerpalooza
+Event Date: 11/1/2025
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $2.70
+Confirmation Number: 4caed740
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Tenzin Draduk
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 10
+Event Date: 12/20/2025
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $86.65
+Confirmation Number: fcafcd06
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Tenzin Draduk
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. North Texas (Basketball)
+Event Date: 2/17/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $131.11
+Confirmation Number: ce50f258
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Tenzin Draduk
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 10
+Event Date: 4/4/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $44.07
+Confirmation Number: 7df2ece9
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Tenzin Draduk
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 12/22/2025
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $2.70
+Confirmation Number: 48951ea0
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Tenzin Draduk
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 19
+Event Date: 1/22/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $47.15
+Confirmation Number: ca674520
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

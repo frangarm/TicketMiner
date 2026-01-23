@@ -1,0 +1,22 @@
+Customer Receipt Summary for: Juan Reyes
+--------------------------------------
+Event Type: Festival
+Event Name: EDC
+Event Date: 5/11/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $550.72
+Confirmation Number: ac134357
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Juan Reyes
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 29
+Event Date: 2/26/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $52.02
+Confirmation Number: 8965b5a3
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

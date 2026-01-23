@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Frida Pena
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Cook-Off
+Event Date: 9/20/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $373.11
+Confirmation Number: 223bddbb
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Frida Pena
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $47.15
+Confirmation Number: 52b36427
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Frida Pena
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 4
+Event Date: 5/20/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $250.92
+Confirmation Number: 814d06e4
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

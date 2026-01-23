@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Jonathan Gomez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Fiesta Latina
+Event Date: 5/5/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $555.86
+Confirmation Number: db592373
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Jonathan Gomez
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Lights Winter Fest
+Event Date: 12/12/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $447.19
+Confirmation Number: d9f60730
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Jonathan Gomez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 19
+Event Date: 1/22/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $109.37
+Confirmation Number: f9d3af50
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Jonathan Gomez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 4
+Event Date: 5/20/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $21.21
+Confirmation Number: 5cb8cbc3
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Jonathan Gomez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Spring Carnival
+Event Date: 3/14/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $269.39
+Confirmation Number: 63bcbe4c
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

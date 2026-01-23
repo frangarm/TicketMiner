@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Avery Whittman
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 12/22/2025
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $2.70
+Confirmation Number: a85954e3
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

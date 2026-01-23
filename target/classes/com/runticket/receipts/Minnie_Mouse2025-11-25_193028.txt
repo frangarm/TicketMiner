@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Minnie Mouse
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 6
+Event Date: 1/8/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $179.44
+Confirmation Number: 507f831a
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Minnie Mouse
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 29
+Event Date: 2/26/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $76.68
+Confirmation Number: 3c2a0822
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Minnie Mouse
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Summer Bash
+Event Date: 6/15/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $150.65
+Confirmation Number: 65acbc6f
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

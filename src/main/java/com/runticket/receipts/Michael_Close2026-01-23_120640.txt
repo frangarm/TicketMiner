@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Michael Close
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 8
+Event Date: 12/13/2025
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $39.96
+Confirmation Number: 884c5b75
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Alireza Nouri
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 31
+Event Date: 3/5/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $19.12
+Confirmation Number: 2a290308
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

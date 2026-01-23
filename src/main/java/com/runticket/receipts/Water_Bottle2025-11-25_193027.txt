@@ -1,0 +1,66 @@
+Customer Receipt Summary for: Water Bottle
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UT Arlington (Basketball)
+Event Date: 1/17/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $387.93
+Confirmation Number: fb6e4393
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Water Bottle
+--------------------------------------
+Event Type: Festival
+Event Name: EDC
+Event Date: 5/11/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $76.78
+Confirmation Number: 059c144f
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Water Bottle
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 13
+Event Date: 11/27/2025
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $141.38
+Confirmation Number: 0a03675a
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Water Bottle
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Choir Holiday Gala
+Event Date: 12/2/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $26.40
+Confirmation Number: 46b22823
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Water Bottle
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Cook-Off
+Event Date: 9/20/2026
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $358.30
+Confirmation Number: 68e1e2e9
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Water Bottle
+--------------------------------------
+Event Type: Festival
+Event Name: Lollapallooza
+Event Date: 5/11/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $299.04
+Confirmation Number: f897f734
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

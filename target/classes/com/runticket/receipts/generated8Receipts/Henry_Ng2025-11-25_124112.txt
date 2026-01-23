@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Henry Ng
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: GA
+Number of Tickets: 1
+Total Price: $15.00
+Confirmation Number: c6a722c1
+Purchase Date: 2025-11-25 12:41:12
+--------------------------------------

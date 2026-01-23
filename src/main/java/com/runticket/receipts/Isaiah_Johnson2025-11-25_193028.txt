@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Isaiah Johnson
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Tech Expo
+Event Date: 3/22/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $111.35
+Confirmation Number: e35c3592
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Isaiah Johnson
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 13
+Event Date: 11/27/2025
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $34.68
+Confirmation Number: c5d7f044
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Isaiah Johnson
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 5
+Event Date: 11/14/2025
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $26.14
+Confirmation Number: 151da415
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

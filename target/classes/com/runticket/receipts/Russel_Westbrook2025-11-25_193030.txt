@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Russel Westbrook
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $132.84
+Confirmation Number: 28f6d05f
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Russel Westbrook
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Women’s Soccer vs. NMSU
+Event Date: 8/28/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $84.90
+Confirmation Number: 1cb37905
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Russel Westbrook
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Liberty (Football)
+Event Date: 11/21/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $79.42
+Confirmation Number: f826fb35
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Russel Westbrook
+--------------------------------------
+Event Type: Festival
+Event Name: EDC
+Event Date: 5/11/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $52.02
+Confirmation Number: 49a76e23
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

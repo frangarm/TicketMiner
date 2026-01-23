@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Jason Ortiz
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Fest 2026
+Event Date: 4/27/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $769.91
+Confirmation Number: 4e4d0286
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Jason Ortiz
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Alumni Band Reunion Concert
+Event Date: 10/25/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $90.37
+Confirmation Number: a50ecbde
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Jason Ortiz
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Fiesta Latina
+Event Date: 5/5/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $989.12
+Confirmation Number: a1bde91c
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Jason Ortiz
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 3
+Event Date: 11/27/2025
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $88.17
+Confirmation Number: 8d63cfcb
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

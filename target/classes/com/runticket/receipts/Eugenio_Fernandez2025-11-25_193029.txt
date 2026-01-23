@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Eugenio Fernandez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 11
+Event Date: 11/13/2025
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $64.34
+Confirmation Number: af55d942
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Eugenio Fernandez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 3
+Event Date: 5/28/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $135.44
+Confirmation Number: 213ff291
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Eugenio Fernandez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 7
+Event Date: 10/16/2025
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $29.35
+Confirmation Number: e4fd6e1c
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Eugenio Fernandez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 19
+Event Date: 1/22/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $24.92
+Confirmation Number: edc0dcb6
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Denisse Loya
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $23.25
+Confirmation Number: fe6cc679
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

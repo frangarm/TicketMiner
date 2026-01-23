@@ -1,0 +1,110 @@
+Customer Receipt Summary for: Kaa Disney
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Lights Winter Fest
+Event Date: 12/12/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $265.75
+Confirmation Number: a97e58fc
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Kaa Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 28
+Event Date: 2/21/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $170.37
+Confirmation Number: bf438599
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Kaa Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 15
+Event Date: 1/8/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $52.02
+Confirmation Number: 0db82644
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Kaa Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 4
+Event Date: 11/29/2025
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $148.03
+Confirmation Number: 764800fa
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Kaa Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 31
+Event Date: 3/5/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $180.25
+Confirmation Number: 868ab57b
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Kaa Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 10
+Event Date: 12/20/2025
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $58.59
+Confirmation Number: 379f393b
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Kaa Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Western Kentucky (Basketball)
+Event Date: 2/14/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $52.02
+Confirmation Number: d51a6917
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Kaa Disney
+--------------------------------------
+Event Type: Concert
+Event Name: Olivia Rodrigo Live
+Event Date: 5/26/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $931.40
+Confirmation Number: f14b3e82
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Kaa Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Jazz Ensemble Night
+Event Date: 3/25/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $24.62
+Confirmation Number: e4c3aec3
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Kaa Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 10
+Event Date: 4/4/2026
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $71.21
+Confirmation Number: 61c887cd
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

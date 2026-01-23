@@ -1,0 +1,110 @@
+Customer Receipt Summary for: Ursela Mermaid
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Women’s Soccer vs. NMSU
+Event Date: 8/28/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $140.99
+Confirmation Number: 7857f290
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Ursela Mermaid
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $27.38
+Confirmation Number: 054da3a2
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Ursela Mermaid
+--------------------------------------
+Event Type: Concert
+Event Name: Gloria Trevi Live in El Paso
+Event Date: 10/15/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $1643.40
+Confirmation Number: e7ebc61c
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Ursela Mermaid
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Summer Bash
+Event Date: 6/15/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $239.77
+Confirmation Number: fcc02cc3
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Ursela Mermaid
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 18
+Event Date: 1/17/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $153.81
+Confirmation Number: 534b7452
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Ursela Mermaid
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 11
+Event Date: 11/13/2025
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $81.71
+Confirmation Number: c81c2e47
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Ursela Mermaid
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Holiday Market
+Event Date: 12/5/2026
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $210.12
+Confirmation Number: 90b4763d
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Ursela Mermaid
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 25
+Event Date: 2/12/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $29.35
+Confirmation Number: e9efc209
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Ursela Mermaid
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 12
+Event Date: 3/22/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $135.44
+Confirmation Number: 08ac7421
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Ursela Mermaid
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 1
+Event Date: 11/20/2025
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $150.86
+Confirmation Number: 0a967089
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

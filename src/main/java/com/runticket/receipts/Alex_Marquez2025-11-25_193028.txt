@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Alex Marquez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 7
+Event Date: 12/11/2025
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $113.82
+Confirmation Number: 396af8c7
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Alex Marquez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 5
+Event Date: 11/14/2025
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $79.89
+Confirmation Number: 49d10eb6
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Alex Marquez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 7
+Event Date: 10/16/2025
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $109.37
+Confirmation Number: d4682ae8
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Alex Marquez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 20
+Event Date: 1/24/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $212.59
+Confirmation Number: d81bcf56
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Alex Marquez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Alumni Band Reunion Concert
+Event Date: 10/25/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $50.10
+Confirmation Number: 48d1bf62
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

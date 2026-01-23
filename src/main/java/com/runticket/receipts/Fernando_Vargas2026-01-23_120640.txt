@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Fernando Vargas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 18
+Event Date: 1/17/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $95.85
+Confirmation Number: f7047001
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Fernando Vargas
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Holiday Market
+Event Date: 12/5/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $145.18
+Confirmation Number: 6d764663
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Fernando Vargas
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Farmers Market
+Event Date: 4/11/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $117.78
+Confirmation Number: 9f42593f
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

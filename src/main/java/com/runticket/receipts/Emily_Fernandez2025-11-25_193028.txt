@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Emily Fernandez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 13
+Event Date: 1/1/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $29.35
+Confirmation Number: 936a4c50
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Emily Fernandez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. New Mexico (Basketball)
+Event Date: 12/10/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $249.64
+Confirmation Number: b1efc40b
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Emily Fernandez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 24
+Event Date: 2/7/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $103.43
+Confirmation Number: e6cde664
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

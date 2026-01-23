@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Evil Queen
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Jazz Ensemble Night
+Event Date: 3/25/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $57.49
+Confirmation Number: 786c8854
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Evil Queen
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 6
+Event Date: 1/8/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $179.44
+Confirmation Number: ec0c1702
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Evil Queen
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 9
+Event Date: 12/18/2025
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $84.90
+Confirmation Number: c7c56332
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Evil Queen
+--------------------------------------
+Event Type: Concert
+Event Name: Olivia Rodrigo Live
+Event Date: 5/26/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $931.40
+Confirmation Number: 32266a0e
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Evil Queen
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 9
+Event Date: 10/30/2025
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $65.82
+Confirmation Number: a3bef1cf
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

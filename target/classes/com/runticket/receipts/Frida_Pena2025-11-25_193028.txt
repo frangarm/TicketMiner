@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Frida Pena
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UTSA (Football)
+Event Date: 10/10/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $71.84
+Confirmation Number: 9bf09ffb
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Frida Pena
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 15
+Event Date: 1/8/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $187.90
+Confirmation Number: 0d49f057
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Frida Pena
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 26
+Event Date: 2/14/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $123.60
+Confirmation Number: a90f17bf
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Frida Pena
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 28
+Event Date: 2/21/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $128.64
+Confirmation Number: 8f8231a7
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Frida Pena
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $136.04
+Confirmation Number: 5e21a752
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

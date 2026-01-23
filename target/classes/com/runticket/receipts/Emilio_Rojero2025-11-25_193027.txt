@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Emilio Rojero
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Holiday Market
+Event Date: 12/5/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $101.48
+Confirmation Number: f92264ba
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Emilio Rojero
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. FIU (Football)
+Event Date: 10/31/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $121.23
+Confirmation Number: d7795e12
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Emilio Rojero
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 5
+Event Date: 10/2/2025
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $76.78
+Confirmation Number: ceadb07f
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Emilio Rojero
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 2
+Event Date: 11/22/2025
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $128.64
+Confirmation Number: 63a82d1d
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Emilio Rojero
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 5
+Event Date: 11/14/2025
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $73.07
+Confirmation Number: fcfaaed8
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

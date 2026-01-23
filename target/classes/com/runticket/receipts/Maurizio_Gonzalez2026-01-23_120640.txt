@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Maurizio Gonzalez
+--------------------------------------
+Event Type: Concert
+Event Name: Olivia Rodrigo Live
+Event Date: 5/26/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $4646.24
+Confirmation Number: 51ca41c9
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Maurizio Gonzalez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $172.04
+Confirmation Number: 5dae9df3
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Maurizio Gonzalez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 7
+Event Date: 10/16/2025
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $42.16
+Confirmation Number: e1e45e7b
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Maurizio Gonzalez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 29
+Event Date: 2/26/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $101.34
+Confirmation Number: 64ec9cdb
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Maurizio Gonzalez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 9
+Event Date: 12/18/2025
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $150.65
+Confirmation Number: cf323f8e
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
