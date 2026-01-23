@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Estefania Fernadez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 13
+Event Date: 11/27/2025
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $136.04
+Confirmation Number: 40211a2f
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Estefania Fernadez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 20
+Event Date: 1/24/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $32.92
+Confirmation Number: 0c2d3d2b
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Estefania Fernadez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 20
+Event Date: 1/24/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $153.81
+Confirmation Number: 1c061194
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

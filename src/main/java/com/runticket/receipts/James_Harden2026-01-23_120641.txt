@@ -1,0 +1,99 @@
+Customer Receipt Summary for: James Harden
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Holiday Market
+Event Date: 12/5/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $178.06
+Confirmation Number: 7724789b
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: James Harden
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 1
+Event Date: 11/30/2025
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $158.87
+Confirmation Number: cc2cf746
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: James Harden
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Tech Expo
+Event Date: 3/22/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $101.34
+Confirmation Number: 0176afd7
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: James Harden
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Louisiana Tech (Basketball)
+Event Date: 1/28/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $134.22
+Confirmation Number: 11f440de
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: James Harden
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 9
+Event Date: 10/30/2025
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $221.90
+Confirmation Number: fb3bc377
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: James Harden
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 6
+Event Date: 10/9/2025
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $35.57
+Confirmation Number: 02fd88cf
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: James Harden
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 27
+Event Date: 2/19/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $76.68
+Confirmation Number: 4395d4aa
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: James Harden
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UAB (Football)
+Event Date: 9/19/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $101.34
+Confirmation Number: c335434a
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: James Harden
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $2.70
+Confirmation Number: 64ccb2bb
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

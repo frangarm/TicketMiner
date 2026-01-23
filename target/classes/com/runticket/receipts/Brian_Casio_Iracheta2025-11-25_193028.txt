@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Brian Casio Iracheta
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 8
+Event Date: 12/13/2025
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $86.65
+Confirmation Number: b4b31387
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Brian Casio Iracheta
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Liberty (Football)
+Event Date: 11/21/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $471.88
+Confirmation Number: 8b42f45b
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Brian Casio Iracheta
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 22
+Event Date: 1/31/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $153.81
+Confirmation Number: bb32316d
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Brian Casio Iracheta
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 23
+Event Date: 2/5/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $113.82
+Confirmation Number: 4016ae55
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Brian Casio Iracheta
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 12/22/2025
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $2.70
+Confirmation Number: d27e6d65
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

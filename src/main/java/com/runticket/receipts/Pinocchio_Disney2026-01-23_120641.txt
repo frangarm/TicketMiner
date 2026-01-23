@@ -1,0 +1,176 @@
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 13
+Event Date: 11/27/2025
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $73.80
+Confirmation Number: 67867c9a
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 19
+Event Date: 1/22/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $113.82
+Confirmation Number: c3876d84
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 8
+Event Date: 10/23/2025
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $144.91
+Confirmation Number: a3805155
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 2
+Event Date: 1/9/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $55.81
+Confirmation Number: c32ed395
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 17
+Event Date: 1/15/2026
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $79.74
+Confirmation Number: f453462d
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 20
+Event Date: 1/24/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $128.64
+Confirmation Number: 993c13c5
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 8
+Event Date: 3/3/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $44.07
+Confirmation Number: c1e1a7ff
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 22
+Event Date: 1/31/2026
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $93.37
+Confirmation Number: c8db1e43
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 2
+Event Date: 9/11/2025
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $91.60
+Confirmation Number: 2a9f9b64
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. North Texas (Basketball)
+Event Date: 2/17/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $457.07
+Confirmation Number: 06050ea9
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 7
+Event Date: 12/11/2025
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $136.04
+Confirmation Number: 760125e0
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Festival
+Event Name: Coachella 1
+Event Date: 2/8/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $990.48
+Confirmation Number: 4153a391
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Louisiana Tech (Basketball)
+Event Date: 1/28/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $565.73
+Confirmation Number: 9fc75ed8
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 18
+Event Date: 1/17/2026
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $133.66
+Confirmation Number: 8fabe542
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 29
+Event Date: 2/26/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $61.96
+Confirmation Number: df58dbd7
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 8
+Event Date: 10/23/2025
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $43.78
+Confirmation Number: a83c4bc8
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

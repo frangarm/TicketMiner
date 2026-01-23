@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Gaston Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 10
+Event Date: 12/20/2025
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $21.33
+Confirmation Number: 90cfffa7
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Gaston Disney
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Summer Bash
+Event Date: 6/15/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $528.79
+Confirmation Number: edf338d6
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Gaston Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $2.70
+Confirmation Number: d3f9f1e6
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Gaston Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Tech Expo
+Event Date: 3/22/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $232.86
+Confirmation Number: 4118218b
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Gaston Disney
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Food & Brew Festival
+Event Date: 8/15/2026
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $397.26
+Confirmation Number: 9fb970ea
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

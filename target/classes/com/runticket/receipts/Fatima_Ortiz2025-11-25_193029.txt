@@ -1,0 +1,66 @@
+Customer Receipt Summary for: Fatima Ortiz
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 6
+Event Date: 10/9/2025
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $68.45
+Confirmation Number: ff6c9bcf
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Fatima Ortiz
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Holiday Market
+Event Date: 12/5/2026
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $216.42
+Confirmation Number: f798430a
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Fatima Ortiz
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 9
+Event Date: 10/30/2025
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $221.90
+Confirmation Number: a0e85415
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Fatima Ortiz
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $54.76
+Confirmation Number: 0e123d2f
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Fatima Ortiz
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $2.70
+Confirmation Number: 27483f45
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Fatima Ortiz
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $19.83
+Confirmation Number: 47473066
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

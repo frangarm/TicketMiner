@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Daniel Morales
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Jazz Ensemble Night
+Event Date: 3/25/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $46.53
+Confirmation Number: c2d59167
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

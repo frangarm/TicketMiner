@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Stephen Curry
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 3
+Event Date: 11/27/2025
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $162.73
+Confirmation Number: c5d5cee2
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Stephen Curry
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 29
+Event Date: 2/26/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $47.15
+Confirmation Number: 8e2ad760
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Stephen Curry
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 2
+Event Date: 11/22/2025
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $32.92
+Confirmation Number: f6df23db
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Stephen Curry
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $44.07
+Confirmation Number: d385c85a
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Stephen Curry
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 5
+Event Date: 12/4/2025
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $150.86
+Confirmation Number: 161da83a
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------

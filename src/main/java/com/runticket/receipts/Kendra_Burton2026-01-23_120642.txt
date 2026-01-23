@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Kendra Burton
+--------------------------------------
+Event Type: Festival
+Event Name: Minerpalooza
+Event Date: 11/1/2025
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $2.70
+Confirmation Number: 3153aabe
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Cia Martin
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 6
+Event Date: 12/6/2025
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $114.48
+Confirmation Number: 4778b0c2
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

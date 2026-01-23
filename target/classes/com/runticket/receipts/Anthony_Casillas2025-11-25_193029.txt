@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $15.04
+Confirmation Number: 01621d24
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Holiday Market
+Event Date: 12/5/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $476.84
+Confirmation Number: 8c181ac4
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Philharmonic Strings
+Event Date: 11/21/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $17.50
+Confirmation Number: 8dc7745c
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 3
+Event Date: 9/18/2025
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $17.50
+Confirmation Number: 311700cd
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

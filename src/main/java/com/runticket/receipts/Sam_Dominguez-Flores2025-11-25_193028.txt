@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Sam Dominguez-Flores
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Summer Bash
+Event Date: 6/15/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $521.27
+Confirmation Number: 12cd0323
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Sam Dominguez-Flores
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Western Kentucky (Basketball)
+Event Date: 2/14/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $220.00
+Confirmation Number: c9ae0b0f
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Sam Dominguez-Flores
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 1
+Event Date: 11/20/2025
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $162.73
+Confirmation Number: 61596269
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Sam Dominguez-Flores
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Farmers Market
+Event Date: 4/11/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $76.78
+Confirmation Number: 22d5cd69
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Shere Khan
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Philharmonic Strings
+Event Date: 11/21/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $42.21
+Confirmation Number: 2e75a732
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Shere Khan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. SMU (Football)
+Event Date: 9/5/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $101.48
+Confirmation Number: 28fefb19
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Shere Khan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 31
+Event Date: 3/5/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $91.60
+Confirmation Number: 4d89edbb
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

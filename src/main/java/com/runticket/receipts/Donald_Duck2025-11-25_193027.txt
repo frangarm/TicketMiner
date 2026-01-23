@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Donald Duck
+--------------------------------------
+Event Type: Concert
+Event Name: Imagine Dragons Live
+Event Date: 8/29/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $2139.94
+Confirmation Number: 8cb81a1b
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Donald Duck
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UT Arlington (Basketball)
+Event Date: 1/17/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $167.09
+Confirmation Number: 4b5bda98
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Donald Duck
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 10
+Event Date: 12/20/2025
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $99.59
+Confirmation Number: fa8ad882
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Donald Duck
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 1
+Event Date: 11/30/2025
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $91.75
+Confirmation Number: 2520c777
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Donald Duck
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 6
+Event Date: 10/9/2025
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $52.02
+Confirmation Number: 61da3368
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Donald Duck
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 27
+Event Date: 2/19/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $150.65
+Confirmation Number: fc10ea40
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Donald Duck
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 4
+Event Date: 11/29/2025
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $95.85
+Confirmation Number: 309fbf3d
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

@@ -1,0 +1,66 @@
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 1
+Event Date: 11/30/2025
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $203.36
+Confirmation Number: e075c278
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 15
+Event Date: 1/8/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $224.94
+Confirmation Number: 8aec4cbd
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Fiesta Latina
+Event Date: 5/5/2026
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $299.04
+Confirmation Number: 6e1b9538
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Western Kentucky (Basketball)
+Event Date: 2/14/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $224.94
+Confirmation Number: 96ffc0f9
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $2.70
+Confirmation Number: 7d132f1f
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $15.04
+Confirmation Number: 743d55bf
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

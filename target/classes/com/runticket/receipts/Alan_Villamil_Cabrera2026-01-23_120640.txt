@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Alan Villamil Cabrera
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Spring Music Fest
+Event Date: 4/20/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $194.50
+Confirmation Number: 627fd0bd
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Alan Villamil Cabrera
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 11
+Event Date: 11/13/2025
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $55.31
+Confirmation Number: 4a398d6b
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Alan Villamil Cabrera
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 31
+Event Date: 3/5/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $24.07
+Confirmation Number: 2ffbea3c
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Alan Villamil Cabrera
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 5
+Event Date: 10/2/2025
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $32.28
+Confirmation Number: e84b74d8
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Alan Villamil Cabrera
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. FIU (Football)
+Event Date: 10/31/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $178.06
+Confirmation Number: 51c1fd2a
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Alan Villamil Cabrera
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Jazz Ensemble Night
+Event Date: 3/25/2026
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $84.90
+Confirmation Number: 111b8b95
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Alan Villamil Cabrera
+--------------------------------------
+Event Type: Festival
+Event Name: Lollapallooza
+Event Date: 5/11/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $2383.26
+Confirmation Number: 833d58e7
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

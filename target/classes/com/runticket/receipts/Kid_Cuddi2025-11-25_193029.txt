@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Kid Cuddi
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Volleyball vs. Rice
+Event Date: 11/8/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $20.46
+Confirmation Number: 8fba7020
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

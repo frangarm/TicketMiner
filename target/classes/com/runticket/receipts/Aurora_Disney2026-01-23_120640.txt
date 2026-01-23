@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Aurora Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $8.61
+Confirmation Number: 4f9f24de
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Aurora Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 3
+Event Date: 5/28/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $33.57
+Confirmation Number: 658e2ef4
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Aurora Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $21.21
+Confirmation Number: 18c33644
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Aurora Disney
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Lights Winter Fest
+Event Date: 12/12/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $42.21
+Confirmation Number: b000de77
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

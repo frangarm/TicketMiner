@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Sebastian Marquez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 7
+Event Date: 4/16/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $126.81
+Confirmation Number: fe04fc4c
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Sebastian Marquez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Women’s Soccer vs. NMSU
+Event Date: 8/28/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $20.46
+Confirmation Number: 512019a6
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Sebastian Marquez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Liberty (Football)
+Event Date: 11/21/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $373.11
+Confirmation Number: 99cb1ee8
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Sebastian Marquez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 5
+Event Date: 10/2/2025
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $17.50
+Confirmation Number: e2ff6373
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Sebastian Marquez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $2.70
+Confirmation Number: cce19154
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Sebastian Marquez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 8
+Event Date: 3/3/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $8.85
+Confirmation Number: 00db10b3
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Sebastian Marquez
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Fest 2026
+Event Date: 4/27/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $140.99
+Confirmation Number: 2aacd11e
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

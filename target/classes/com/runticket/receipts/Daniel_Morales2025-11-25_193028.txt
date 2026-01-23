@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Daniel Morales
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Fiesta Latina
+Event Date: 5/5/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $632.89
+Confirmation Number: ce587106
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Daniel Morales
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Spring Music Fest
+Event Date: 4/20/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $479.47
+Confirmation Number: 31d8a378
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Daniel Morales
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 19
+Event Date: 1/22/2026
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $91.48
+Confirmation Number: 017ffc31
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

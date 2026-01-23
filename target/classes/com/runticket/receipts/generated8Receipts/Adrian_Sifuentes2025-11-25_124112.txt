@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Adrian Sifuentes
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: GA
+Number of Tickets: 1
+Total Price: $15.00
+Confirmation Number: 84c1ab75
+Purchase Date: 2025-11-25 12:41:12
+--------------------------------------

@@ -1,0 +1,88 @@
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 4
+Event Date: 11/29/2025
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $111.83
+Confirmation Number: cc854f53
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 23
+Event Date: 2/5/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $187.90
+Confirmation Number: 0c851839
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Women’s Soccer vs. NMSU
+Event Date: 8/28/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $224.94
+Confirmation Number: bd72ac0c
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $168.17
+Confirmation Number: a5eb15bb
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 30
+Event Date: 2/28/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $184.05
+Confirmation Number: b290cbd0
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 16
+Event Date: 1/10/2026
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $90.00
+Confirmation Number: 56718f2f
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 12/22/2025
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $2.70
+Confirmation Number: fa14e942
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Festival
+Event Name: Minerpalooza
+Event Date: 11/1/2025
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $2.70
+Confirmation Number: b1171468
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

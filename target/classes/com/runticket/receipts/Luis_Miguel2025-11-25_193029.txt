@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Luis Miguel
+--------------------------------------
+Event Type: Festival
+Event Name: ACL
+Event Date: 5/2/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $167.09
+Confirmation Number: b0ac2a06
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Luis Miguel
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 9
+Event Date: 3/28/2026
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $71.21
+Confirmation Number: e266c6d9
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Luis Miguel
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 10
+Event Date: 4/4/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $9.54
+Confirmation Number: 18fa63f5
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

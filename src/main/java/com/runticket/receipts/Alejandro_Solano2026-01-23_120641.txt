@@ -1,0 +1,22 @@
+Customer Receipt Summary for: Alejandro Solano
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Tech Expo
+Event Date: 3/22/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $232.86
+Confirmation Number: 72ee4c5b
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Alejandro Solano
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 27
+Event Date: 2/19/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $249.31
+Confirmation Number: e78e12ee
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

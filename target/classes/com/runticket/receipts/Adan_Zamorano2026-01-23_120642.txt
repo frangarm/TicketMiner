@@ -1,0 +1,264 @@
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UAB (Football)
+Event Date: 9/19/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $476.84
+Confirmation Number: cb95e48b
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 9
+Event Date: 3/28/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $21.21
+Confirmation Number: 6120d8cf
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 22
+Event Date: 1/31/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $19.49
+Confirmation Number: 4ad2bdee
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Choir Holiday Gala
+Event Date: 12/2/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $26.40
+Confirmation Number: 4bc5af9e
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 6
+Event Date: 10/9/2025
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $180.50
+Confirmation Number: 462cbe7e
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 16
+Event Date: 1/10/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $111.83
+Confirmation Number: 16b70579
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 2
+Event Date: 11/22/2025
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $153.81
+Confirmation Number: ac73140b
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 6
+Event Date: 1/8/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $49.62
+Confirmation Number: c7bdd754
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 6
+Event Date: 1/8/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $209.53
+Confirmation Number: 10cf45ad
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Festival
+Event Name: ACL
+Event Date: 5/2/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $620.04
+Confirmation Number: cac8bf7c
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Choir Holiday Gala
+Event Date: 12/2/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $26.40
+Confirmation Number: aadac73e
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 12
+Event Date: 11/20/2025
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $97.53
+Confirmation Number: f366520a
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. FIU (Football)
+Event Date: 10/31/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $239.77
+Confirmation Number: 984abe0c
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 27
+Event Date: 2/19/2026
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $82.71
+Confirmation Number: d7c3f5ae
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 3
+Event Date: 5/28/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $119.98
+Confirmation Number: 228a0161
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Farmers Market
+Event Date: 4/11/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $106.42
+Confirmation Number: e7ded1ce
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 9
+Event Date: 12/18/2025
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $47.15
+Confirmation Number: 2c048301
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $2.70
+Confirmation Number: 0fdb2dfb
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. FIU (Football)
+Event Date: 10/31/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $397.81
+Confirmation Number: 3ee1188e
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $119.98
+Confirmation Number: de0da6b5
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Festival
+Event Name: EDC
+Event Date: 5/11/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $76.78
+Confirmation Number: 34586c08
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 20
+Event Date: 1/24/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $36.28
+Confirmation Number: 8fc5d357
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 12
+Event Date: 11/20/2025
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $73.80
+Confirmation Number: d355d99a
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $42.21
+Confirmation Number: 5588c218
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

@@ -1,0 +1,22 @@
+Customer Receipt Summary for: Victoria Lopez
+--------------------------------------
+Event Type: Festival
+Event Name: Minerpalooza
+Event Date: 11/1/2025
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $2.70
+Confirmation Number: a6e30e7c
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Victoria Lopez
+--------------------------------------
+Event Type: Festival
+Event Name: Minerpalooza
+Event Date: 11/1/2025
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $2.70
+Confirmation Number: 7c267b9a
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

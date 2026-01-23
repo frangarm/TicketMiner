@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Ana Rodriguez
+--------------------------------------
+Event Type: Festival
+Event Name: Minerpalooza
+Event Date: 11/1/2025
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $2.70
+Confirmation Number: 6404b985
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Ana Rodriguez
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Choir Holiday Gala
+Event Date: 12/2/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $11.45
+Confirmation Number: 8d7f68f1
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Ana Rodriguez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $2.70
+Confirmation Number: bfd9f4b5
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------

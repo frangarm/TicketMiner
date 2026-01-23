@@ -1,0 +1,99 @@
+Customer Receipt Summary for: Martha Rios-Lozano
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 20
+Event Date: 1/24/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $282.18
+Confirmation Number: 68255fc7
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Martha Rios-Lozano
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $186.30
+Confirmation Number: 9d306140
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Martha Rios-Lozano
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 19
+Event Date: 1/22/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $150.65
+Confirmation Number: 16248c2c
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Martha Rios-Lozano
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Spring Music Fest
+Event Date: 4/20/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $304.10
+Confirmation Number: 8287624b
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Martha Rios-Lozano
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Film Fest
+Event Date: 11/15/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $216.42
+Confirmation Number: 13c81442
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Martha Rios-Lozano
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 5
+Event Date: 10/2/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $24.07
+Confirmation Number: a547d4ea
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Martha Rios-Lozano
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $2.70
+Confirmation Number: 3453c2d2
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Martha Rios-Lozano
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Choir Holiday Gala
+Event Date: 12/2/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $61.88
+Confirmation Number: bd65a6ae
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Martha Rios-Lozano
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 30
+Event Date: 2/28/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $39.96
+Confirmation Number: 7a25c5cf
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

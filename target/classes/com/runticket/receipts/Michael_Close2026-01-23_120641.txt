@@ -1,0 +1,99 @@
+Customer Receipt Summary for: Michael Close
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 2
+Event Date: 9/11/2025
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $109.54
+Confirmation Number: f5175aaa
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Michael Close
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 3
+Event Date: 9/18/2025
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $91.48
+Confirmation Number: a01ebf58
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Michael Close
+--------------------------------------
+Event Type: Concert
+Event Name: Banda MS Tour 2026
+Event Date: 9/4/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $1646.75
+Confirmation Number: 2b9fad24
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Michael Close
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 13
+Event Date: 1/1/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $61.88
+Confirmation Number: bc4240ab
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Michael Close
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $160.50
+Confirmation Number: d8ab3dd2
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Michael Close
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 5
+Event Date: 12/4/2025
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $101.34
+Confirmation Number: 67641d38
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Michael Close
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 2
+Event Date: 11/22/2025
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $282.18
+Confirmation Number: c965620e
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Michael Close
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 5
+Event Date: 11/14/2025
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $36.95
+Confirmation Number: 18eabe58
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Michael Close
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 23
+Event Date: 2/5/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $52.02
+Confirmation Number: 6a07b8b8
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

@@ -1,0 +1,88 @@
+Customer Receipt Summary for: Fernando Vargas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Volleyball vs. Rice
+Event Date: 11/8/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $24.62
+Confirmation Number: 128eaf1a
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Fernando Vargas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $24.07
+Confirmation Number: cd3296d3
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Fernando Vargas
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $2.70
+Confirmation Number: e4532251
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Fernando Vargas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 8
+Event Date: 10/23/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $25.50
+Confirmation Number: 19bb5ddb
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Fernando Vargas
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $2.70
+Confirmation Number: 29892bf7
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Fernando Vargas
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $2.70
+Confirmation Number: 7fa68373
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Fernando Vargas
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 12/22/2025
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $2.70
+Confirmation Number: c49d6513
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Fernando Vargas
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Philharmonic Strings
+Event Date: 11/21/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $20.23
+Confirmation Number: 3c287c77
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------

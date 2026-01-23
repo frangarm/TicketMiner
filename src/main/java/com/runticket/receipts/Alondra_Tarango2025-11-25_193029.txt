@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Alondra Tarango
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Philharmonic Strings
+Event Date: 11/21/2026
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $101.34
+Confirmation Number: 78866b3d
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Alondra Tarango
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 4
+Event Date: 5/20/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $140.40
+Confirmation Number: 9a1b6fa0
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Alondra Tarango
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 12/22/2025
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $2.70
+Confirmation Number: de2487c9
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Alondra Tarango
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $48.60
+Confirmation Number: 192bd8f9
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Alondra Tarango
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 5
+Event Date: 11/14/2025
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $28.71
+Confirmation Number: e62c5981
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Alondra Tarango
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $2.70
+Confirmation Number: 2a6ba663
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Alondra Tarango
+--------------------------------------
+Event Type: Festival
+Event Name: Minerpalooza
+Event Date: 11/1/2025
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $2.70
+Confirmation Number: 23be299b
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

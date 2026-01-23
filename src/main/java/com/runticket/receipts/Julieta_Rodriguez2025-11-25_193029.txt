@@ -1,0 +1,110 @@
+Customer Receipt Summary for: Julieta Rodriguez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $36.95
+Confirmation Number: b1afb124
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Julieta Rodriguez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 1
+Event Date: 11/20/2025
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $43.78
+Confirmation Number: a24b19a7
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Julieta Rodriguez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. New Mexico (Basketball)
+Event Date: 12/10/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $167.09
+Confirmation Number: 09b36161
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Julieta Rodriguez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 29
+Event Date: 2/26/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $68.45
+Confirmation Number: 5bd99668
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Julieta Rodriguez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 23
+Event Date: 2/5/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $249.31
+Confirmation Number: 542fab45
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Julieta Rodriguez
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Fest 2026
+Event Date: 4/27/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $632.89
+Confirmation Number: 63a32131
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Julieta Rodriguez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 9
+Event Date: 12/18/2025
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $167.09
+Confirmation Number: 78096853
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Julieta Rodriguez
+--------------------------------------
+Event Type: Festival
+Event Name: Minerpalooza
+Event Date: 11/1/2025
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $2.70
+Confirmation Number: c00929c6
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Julieta Rodriguez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 13
+Event Date: 1/1/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $126.00
+Confirmation Number: 1c041726
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Julieta Rodriguez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Spring Music Fest
+Event Date: 4/20/2026
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $627.43
+Confirmation Number: a4da48b7
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

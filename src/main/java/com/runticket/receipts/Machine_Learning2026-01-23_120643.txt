@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Machine Learning
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $2.70
+Confirmation Number: 66b96af9
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Machine Learning
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $2.70
+Confirmation Number: cea6a74d
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Machine Learning
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 12/22/2025
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $2.70
+Confirmation Number: ac6f0cc6
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Machine Learning
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $2.70
+Confirmation Number: d2985b1d
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Machine Learning
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $2.70
+Confirmation Number: fc93b073
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------

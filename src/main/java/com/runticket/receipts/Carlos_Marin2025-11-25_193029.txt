@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Carlos Marin
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 13
+Event Date: 11/27/2025
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $38.20
+Confirmation Number: 3a148bee
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Carlos Marin
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 10
+Event Date: 11/6/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $25.50
+Confirmation Number: 286f49a9
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Carlos Marin
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 7
+Event Date: 12/11/2025
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $88.17
+Confirmation Number: 8a5308da
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Carlos Marin
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Pride Week
+Event Date: 10/3/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $41.03
+Confirmation Number: 7ca3dff6
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Carlos Marin
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 13
+Event Date: 11/27/2025
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $52.02
+Confirmation Number: e037eaa3
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

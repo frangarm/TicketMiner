@@ -1,0 +1,88 @@
+Customer Receipt Summary for: Isabel Quinones
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 4
+Event Date: 5/20/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $23.25
+Confirmation Number: a0a1ef3e
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Isabel Quinones
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 21
+Event Date: 1/29/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $68.45
+Confirmation Number: fc522a27
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Isabel Quinones
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Western Kentucky (Basketball)
+Event Date: 2/14/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $167.09
+Confirmation Number: 2c7f78b0
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Isabel Quinones
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 20
+Event Date: 1/24/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $21.33
+Confirmation Number: e4598fe2
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Isabel Quinones
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. SMU (Football)
+Event Date: 9/5/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $139.69
+Confirmation Number: 45291768
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Isabel Quinones
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 25
+Event Date: 2/12/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $32.28
+Confirmation Number: 38b9da51
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Isabel Quinones
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 25
+Event Date: 2/12/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $208.19
+Confirmation Number: 6ae82bd9
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Isabel Quinones
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 7
+Event Date: 12/11/2025
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $32.28
+Confirmation Number: 1601ef83
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

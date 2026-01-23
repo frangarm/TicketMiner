@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Simba Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 7
+Event Date: 4/16/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $16.39
+Confirmation Number: 65da8d1c
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------

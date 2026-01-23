@@ -1,0 +1,99 @@
+Customer Receipt Summary for: Armando Levario Alvarez
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Lights Winter Fest
+Event Date: 12/12/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $269.39
+Confirmation Number: ff2ad989
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Armando Levario Alvarez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 11
+Event Date: 11/13/2025
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $88.04
+Confirmation Number: f0ec30e4
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Armando Levario Alvarez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Alumni Band Reunion Concert
+Event Date: 10/25/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $47.15
+Confirmation Number: 1bdf54f0
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Armando Levario Alvarez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $118.26
+Confirmation Number: d6ca999d
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Armando Levario Alvarez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 14
+Event Date: 1/3/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $53.07
+Confirmation Number: 4ffc6d23
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Armando Levario Alvarez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 10
+Event Date: 4/4/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $33.57
+Confirmation Number: 7be23985
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Armando Levario Alvarez
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Philharmonic Strings
+Event Date: 11/21/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $22.46
+Confirmation Number: b38a6dbe
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Armando Levario Alvarez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. FIU (Football)
+Event Date: 10/31/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $358.30
+Confirmation Number: 1081ed3a
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Armando Levario Alvarez
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Philharmonic Strings
+Event Date: 11/21/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $77.76
+Confirmation Number: 12e39891
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

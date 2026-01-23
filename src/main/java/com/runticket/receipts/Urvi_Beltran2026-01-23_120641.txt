@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Urvi Beltran
+--------------------------------------
+Event Type: Concert
+Event Name: Post Malone World Tour
+Event Date: 6/20/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $5065.07
+Confirmation Number: 04014c29
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Urvi Beltran
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 1
+Event Date: 11/30/2025
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $33.56
+Confirmation Number: 684f30c3
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Urvi Beltran
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 27
+Event Date: 2/19/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $91.60
+Confirmation Number: 077cf21e
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Urvi Beltran
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 12
+Event Date: 11/20/2025
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $88.04
+Confirmation Number: 87411737
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Sam Dominguez-Flores
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Cook-Off
+Event Date: 9/20/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $496.59
+Confirmation Number: 11a19f4b
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Sam Dominguez-Flores
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $2.70
+Confirmation Number: f2b0eb8e
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Sam Dominguez-Flores
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Summer Bash
+Event Date: 6/15/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $313.84
+Confirmation Number: 65ec2844
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Sam Dominguez-Flores
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 3
+Event Date: 5/28/2026
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $64.45
+Confirmation Number: cbe54322
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

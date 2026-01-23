@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Juan Reyes
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $24.07
+Confirmation Number: 6aec9aed
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Juan Reyes
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 6
+Event Date: 12/6/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $26.92
+Confirmation Number: 316ad615
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Juan Reyes
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 12/22/2025
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $2.70
+Confirmation Number: e5909255
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

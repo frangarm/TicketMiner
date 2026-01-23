@@ -1,0 +1,143 @@
+Customer Receipt Summary for: Zachary Carrejo
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Fest 2026
+Event Date: 4/27/2026
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $463.02
+Confirmation Number: 17c9fd4a
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Zachary Carrejo
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Lights Winter Fest
+Event Date: 12/12/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $495.91
+Confirmation Number: 90579e5e
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Zachary Carrejo
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Louisiana Tech (Basketball)
+Event Date: 1/28/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $134.22
+Confirmation Number: 7246e630
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Zachary Carrejo
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 30
+Event Date: 2/28/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $30.63
+Confirmation Number: 424a0836
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Zachary Carrejo
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Summer Bash
+Event Date: 6/15/2026
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $353.43
+Confirmation Number: f3ffece1
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Zachary Carrejo
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $81.59
+Confirmation Number: 2f131e0c
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Zachary Carrejo
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 6
+Event Date: 12/6/2025
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $77.21
+Confirmation Number: 3c39fa00
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Zachary Carrejo
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Volleyball vs. Rice
+Event Date: 11/8/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $232.86
+Confirmation Number: 065e3ba6
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Zachary Carrejo
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Women’s Soccer vs. NMSU
+Event Date: 8/28/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $30.08
+Confirmation Number: 54e6e3a2
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Zachary Carrejo
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 8
+Event Date: 10/23/2025
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $192.10
+Confirmation Number: 40fab53a
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Zachary Carrejo
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 4
+Event Date: 5/20/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $80.79
+Confirmation Number: afad4d7a
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Zachary Carrejo
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 25
+Event Date: 2/12/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $52.02
+Confirmation Number: f2a7ba67
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Zachary Carrejo
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 16
+Event Date: 1/10/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $136.86
+Confirmation Number: ed58910c
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

@@ -1,0 +1,77 @@
+Customer Receipt Summary for: First Last
+--------------------------------------
+Event Type: Concert
+Event Name: Justin Timberlake Live
+Event Date: 5/2/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $3006.82
+Confirmation Number: 646d696a
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: First Last
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Fiesta Latina
+Event Date: 5/5/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $989.12
+Confirmation Number: 8409141e
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: First Last
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Pride Week
+Event Date: 10/3/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $90.37
+Confirmation Number: 77728993
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: First Last
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 9
+Event Date: 3/28/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $48.60
+Confirmation Number: 43ae376a
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: First Last
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. NMSU Aggies (Football)
+Event Date: 9/12/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $167.09
+Confirmation Number: 7038f607
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: First Last
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 26
+Event Date: 2/14/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $51.14
+Confirmation Number: aaae985b
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: First Last
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UT Arlington (Basketball)
+Event Date: 1/17/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $561.66
+Confirmation Number: 53f9bb2a
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

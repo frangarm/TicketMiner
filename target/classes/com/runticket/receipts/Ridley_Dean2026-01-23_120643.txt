@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Ridley Dean
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 6
+Event Date: 10/9/2025
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $29.35
+Confirmation Number: 4f16305f
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------

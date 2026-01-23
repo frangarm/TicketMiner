@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 13
+Event Date: 11/27/2025
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $194.71
+Confirmation Number: 027bb0ef
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. SMU (Football)
+Event Date: 9/5/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $27.38
+Confirmation Number: b2cec70d
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 4
+Event Date: 5/20/2026
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $64.45
+Confirmation Number: 2244726f
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Film Fest
+Event Date: 11/15/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $190.37
+Confirmation Number: d615ecf7
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Spring Music Fest
+Event Date: 4/20/2026
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $565.73
+Confirmation Number: 5c4cdfb6
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 26
+Event Date: 2/14/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $32.92
+Confirmation Number: 78657348
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Adan Zamorano
+--------------------------------------
+Event Type: Festival
+Event Name: Minerpalooza
+Event Date: 11/1/2025
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $2.70
+Confirmation Number: 8d2c48cf
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

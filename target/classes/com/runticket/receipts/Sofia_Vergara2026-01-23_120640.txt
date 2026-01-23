@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Sofia Vergara
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Holiday Market
+Event Date: 12/5/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $178.06
+Confirmation Number: 9686ce69
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Sofia Vergara
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 17
+Event Date: 1/15/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $52.02
+Confirmation Number: 25324a68
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Sofia Vergara
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 15
+Event Date: 1/8/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $249.31
+Confirmation Number: b5c408b5
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

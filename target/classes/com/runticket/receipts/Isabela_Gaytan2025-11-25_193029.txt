@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Isabela Gaytan
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Cook-Off
+Event Date: 9/20/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $112.29
+Confirmation Number: bddef300
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Isabela Gaytan
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $2.70
+Confirmation Number: f00db20c
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Isabela Gaytan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 2
+Event Date: 9/11/2025
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $121.06
+Confirmation Number: fbb7b1ff
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Isabela Gaytan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 10
+Event Date: 12/20/2025
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $148.03
+Confirmation Number: b4a2838c
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Isabela Gaytan
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $2.70
+Confirmation Number: 182a0c7d
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

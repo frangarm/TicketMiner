@@ -1,0 +1,88 @@
+Customer Receipt Summary for: Ridley Dean
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 8
+Event Date: 3/3/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $44.07
+Confirmation Number: 1600c5bc
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Ridley Dean
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 22
+Event Date: 1/31/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $153.81
+Confirmation Number: 35f3472f
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Ridley Dean
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. SMU (Football)
+Event Date: 9/5/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $437.31
+Confirmation Number: 155dc0f1
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Ridley Dean
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Liberty (Football)
+Event Date: 11/21/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $96.53
+Confirmation Number: 77898bfd
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Ridley Dean
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 31
+Event Date: 3/5/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $113.82
+Confirmation Number: c535843e
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Ridley Dean
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 23
+Event Date: 2/5/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $76.78
+Confirmation Number: 080e3492
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Ridley Dean
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 4
+Event Date: 9/25/2025
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $24.92
+Confirmation Number: 3107980f
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Ridley Dean
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Women’s Soccer vs. NMSU
+Event Date: 8/28/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $12.56
+Confirmation Number: dd85efce
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

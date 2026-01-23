@@ -1,0 +1,187 @@
+Customer Receipt Summary for: Cinderella Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 10
+Event Date: 11/6/2025
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $46.53
+Confirmation Number: f9331252
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Cinderella Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 20
+Event Date: 1/24/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $49.28
+Confirmation Number: 674ac784
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Cinderella Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UTSA (Football)
+Event Date: 10/10/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $35.57
+Confirmation Number: af292945
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Cinderella Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. NMSU Aggies (Football)
+Event Date: 9/12/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $110.65
+Confirmation Number: 8dbf6822
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Cinderella Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 8
+Event Date: 10/23/2025
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $55.31
+Confirmation Number: d008151c
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Cinderella Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 10
+Event Date: 11/6/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $25.50
+Confirmation Number: 17d418bc
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Cinderella Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $2.70
+Confirmation Number: f9dd386a
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Cinderella Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $19.12
+Confirmation Number: 3051e844
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Cinderella Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 9
+Event Date: 3/28/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $179.44
+Confirmation Number: c66a3bb9
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Cinderella Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 7
+Event Date: 10/16/2025
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $91.48
+Confirmation Number: 6954eff8
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Cinderella Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Alumni Band Reunion Concert
+Event Date: 10/25/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $30.08
+Confirmation Number: 7c23b994
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Cinderella Disney
+--------------------------------------
+Event Type: Festival
+Event Name: EDC
+Event Date: 5/11/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $101.34
+Confirmation Number: 4e33d026
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Cinderella Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Farmers Market
+Event Date: 4/11/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $117.78
+Confirmation Number: b9360054
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Cinderella Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 7
+Event Date: 12/11/2025
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $45.42
+Confirmation Number: 4d581a22
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Cinderella Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 6
+Event Date: 10/9/2025
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $61.88
+Confirmation Number: 59e124d6
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Cinderella Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 7
+Event Date: 4/16/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $36.95
+Confirmation Number: 9f36e6d0
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Cinderella Disney
+--------------------------------------
+Event Type: Festival
+Event Name: ACL 2
+Event Date: 4/13/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $35.57
+Confirmation Number: c7a6a27b
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

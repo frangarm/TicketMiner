@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Belle Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 8
+Event Date: 12/13/2025
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $78.25
+Confirmation Number: 7f4bc65a
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Belle Disney
+--------------------------------------
+Event Type: Festival
+Event Name: Minerpalooza
+Event Date: 11/1/2025
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $2.70
+Confirmation Number: e920589a
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Belle Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 11
+Event Date: 12/25/2025
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $162.73
+Confirmation Number: 7fd6fe25
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Belle Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 26
+Event Date: 2/14/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $27.87
+Confirmation Number: 8d24ecdc
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Belle Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $17.50
+Confirmation Number: 4ecafd5e
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Belle Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. North Texas (Basketball)
+Event Date: 2/17/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $52.07
+Confirmation Number: bdf9ace2
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Belle Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 18
+Event Date: 1/17/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $212.59
+Confirmation Number: 313164eb
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

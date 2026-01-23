@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Tech Expo
+Event Date: 3/22/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $417.56
+Confirmation Number: b9e42cdb
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Liberty (Football)
+Event Date: 11/21/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $126.17
+Confirmation Number: 96ab49ba
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 30
+Event Date: 2/28/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $44.67
+Confirmation Number: 2d343898
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 22
+Event Date: 1/31/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $212.59
+Confirmation Number: 6bf93934
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 9
+Event Date: 3/28/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $108.88
+Confirmation Number: 5bb75c8a
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 8
+Event Date: 3/3/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $27.38
+Confirmation Number: def45c07
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 8
+Event Date: 12/13/2025
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $254.58
+Confirmation Number: cb4659e4
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Simba Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 9
+Event Date: 10/30/2025
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $90.37
+Confirmation Number: 3e83a2f8
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Simba Disney
+--------------------------------------
+Event Type: Concert
+Event Name: Post Malone World Tour
+Event Date: 6/20/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $857.61
+Confirmation Number: b1e2f174
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Simba Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Volleyball vs. Rice
+Event Date: 11/8/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $52.02
+Confirmation Number: a2a64ec0
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Simba Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $2.70
+Confirmation Number: 3dfc49c3
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

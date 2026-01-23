@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Daniel Reyes
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 29
+Event Date: 2/26/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $162.73
+Confirmation Number: a3cc7a38
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Daniel Reyes
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 7
+Event Date: 10/16/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $21.95
+Confirmation Number: 828ceb7e
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Daniel Reyes
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Women’s Soccer vs. NMSU
+Event Date: 8/28/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $38.26
+Confirmation Number: b3e1fac0
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Daniel Reyes
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UTSA (Football)
+Event Date: 10/10/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $61.96
+Confirmation Number: e40fe854
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

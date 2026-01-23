@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Lebron James
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 13
+Event Date: 1/1/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $109.37
+Confirmation Number: 512e3fa4
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Lebron James
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. NMSU Aggies (Football)
+Event Date: 9/12/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $391.87
+Confirmation Number: d43e8070
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Lebron James
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 15
+Event Date: 1/8/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $17.50
+Confirmation Number: 9e9bcc3b
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

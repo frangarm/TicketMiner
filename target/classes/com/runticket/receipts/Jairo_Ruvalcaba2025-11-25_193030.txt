@@ -1,0 +1,176 @@
+Customer Receipt Summary for: Jairo Ruvalcaba
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 1
+Event Date: 11/30/2025
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $203.36
+Confirmation Number: fc2e5047
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Jairo Ruvalcaba
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 2
+Event Date: 11/22/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $24.51
+Confirmation Number: 47c3fd5a
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Jairo Ruvalcaba
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Tech Expo
+Event Date: 3/22/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $545.98
+Confirmation Number: e5e98a4e
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Jairo Ruvalcaba
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Summer Bash
+Event Date: 6/15/2026
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $318.79
+Confirmation Number: b904e98f
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Jairo Ruvalcaba
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 25
+Event Date: 2/12/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $91.60
+Confirmation Number: 54b93ea9
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Jairo Ruvalcaba
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 26
+Event Date: 2/14/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $27.87
+Confirmation Number: 19e8597c
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Jairo Ruvalcaba
+--------------------------------------
+Event Type: Concert
+Event Name: Gloria Trevi Live in El Paso
+Event Date: 10/15/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $1039.86
+Confirmation Number: 6b3eb1b1
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Jairo Ruvalcaba
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $26.14
+Confirmation Number: 434e32e2
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Jairo Ruvalcaba
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 12
+Event Date: 11/20/2025
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $73.80
+Confirmation Number: bc6110bb
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Jairo Ruvalcaba
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Tech Expo
+Event Date: 3/22/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $91.60
+Confirmation Number: 7cda23cc
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Jairo Ruvalcaba
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Volleyball vs. Rice
+Event Date: 11/8/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $27.38
+Confirmation Number: c6fe0466
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Jairo Ruvalcaba
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 12
+Event Date: 12/27/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $24.51
+Confirmation Number: 99468f63
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Jairo Ruvalcaba
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 11
+Event Date: 12/25/2025
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $17.50
+Confirmation Number: 696e3ba8
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Jairo Ruvalcaba
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 7
+Event Date: 10/16/2025
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $17.50
+Confirmation Number: 55684555
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Jairo Ruvalcaba
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 11
+Event Date: 11/13/2025
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $50.10
+Confirmation Number: f1c8f903
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Jairo Ruvalcaba
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $2.70
+Confirmation Number: 2973e55d
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

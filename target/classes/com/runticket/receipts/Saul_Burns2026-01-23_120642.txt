@@ -1,0 +1,187 @@
+Customer Receipt Summary for: Saul Burns
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 15
+Event Date: 1/8/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $150.86
+Confirmation Number: 7104b21b
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Saul Burns
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 10
+Event Date: 12/20/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $24.51
+Confirmation Number: 7987c2c9
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Saul Burns
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Tech Expo
+Event Date: 3/22/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $150.86
+Confirmation Number: c2c4bf8b
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Saul Burns
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 7
+Event Date: 12/11/2025
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $118.26
+Confirmation Number: 44e6e5d6
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Saul Burns
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 2
+Event Date: 11/22/2025
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $184.05
+Confirmation Number: fa98453a
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Saul Burns
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Volleyball vs. Rice
+Event Date: 11/8/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $180.50
+Confirmation Number: 5a7f73dc
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Saul Burns
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Alumni Band Reunion Concert
+Event Date: 10/25/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $76.78
+Confirmation Number: 5041b984
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Saul Burns
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 28
+Event Date: 2/21/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $103.43
+Confirmation Number: 155c6ab7
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Saul Burns
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 12
+Event Date: 3/22/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $119.98
+Confirmation Number: 118921c2
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Saul Burns
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 18
+Event Date: 1/17/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $123.60
+Confirmation Number: 66640041
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Saul Burns
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Food & Brew Festival
+Event Date: 8/15/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $378.06
+Confirmation Number: 7201db7d
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Saul Burns
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 2
+Event Date: 1/9/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $49.62
+Confirmation Number: a612f85a
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Saul Burns
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Western Kentucky (Basketball)
+Event Date: 2/14/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $86.65
+Confirmation Number: 65d958cb
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Saul Burns
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 29
+Event Date: 2/26/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $113.82
+Confirmation Number: e26f53ed
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Saul Burns
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 14
+Event Date: 1/3/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $254.58
+Confirmation Number: 8c6f4770
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Saul Burns
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 15
+Event Date: 1/8/2026
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $82.71
+Confirmation Number: 7b329b0a
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Saul Burns
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 10
+Event Date: 11/6/2025
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $160.75
+Confirmation Number: cd25a88a
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

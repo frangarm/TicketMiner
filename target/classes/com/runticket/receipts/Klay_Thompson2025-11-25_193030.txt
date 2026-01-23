@@ -1,0 +1,143 @@
+Customer Receipt Summary for: Klay Thompson
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 12
+Event Date: 11/20/2025
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $93.89
+Confirmation Number: 8af0efce
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Klay Thompson
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 19
+Event Date: 1/22/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $126.00
+Confirmation Number: d96bbd86
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Klay Thompson
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 10
+Event Date: 11/6/2025
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $20.23
+Confirmation Number: d0a17dff
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Klay Thompson
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 17
+Event Date: 1/15/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $150.65
+Confirmation Number: 74120517
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Klay Thompson
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 9
+Event Date: 10/30/2025
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $34.27
+Confirmation Number: 2bda1442
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Klay Thompson
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 12
+Event Date: 11/20/2025
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $46.53
+Confirmation Number: 6ebd6fc6
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Klay Thompson
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 17
+Event Date: 1/15/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $84.90
+Confirmation Number: 5707e7f3
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Klay Thompson
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 9
+Event Date: 3/28/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $80.79
+Confirmation Number: 5e33c61e
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Klay Thompson
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 9
+Event Date: 10/30/2025
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $107.92
+Confirmation Number: 2a8cc7a3
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Klay Thompson
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 9
+Event Date: 12/18/2025
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $91.48
+Confirmation Number: a5a859b6
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Klay Thompson
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 12/22/2025
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $2.70
+Confirmation Number: df7e2b68
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Klay Thompson
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $2.70
+Confirmation Number: 7e09647f
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Klay Thompson
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $2.70
+Confirmation Number: 9cad5664
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

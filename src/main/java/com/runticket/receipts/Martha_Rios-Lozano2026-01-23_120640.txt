@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Martha Rios-Lozano
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 19
+Event Date: 1/22/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $126.00
+Confirmation Number: 1ac5e9a0
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

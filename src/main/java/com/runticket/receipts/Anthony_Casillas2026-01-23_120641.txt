@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Food & Brew Festival
+Event Date: 8/15/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $150.86
+Confirmation Number: 34e716a3
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Jazz Ensemble Night
+Event Date: 3/25/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $160.75
+Confirmation Number: f9e36d52
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Food & Brew Festival
+Event Date: 8/15/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $447.19
+Confirmation Number: 30b219b1
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

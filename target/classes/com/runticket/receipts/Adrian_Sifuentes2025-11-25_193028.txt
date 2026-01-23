@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Adrian Sifuentes
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UT Arlington (Basketball)
+Event Date: 1/17/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $73.93
+Confirmation Number: 71350c97
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Adrian Sifuentes
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 28
+Event Date: 2/21/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $142.43
+Confirmation Number: 2cfa430c
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Adrian Sifuentes
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UT Arlington (Basketball)
+Event Date: 1/17/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $84.90
+Confirmation Number: ee0dd6c7
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Adrian Sifuentes
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 30
+Event Date: 2/28/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $136.86
+Confirmation Number: b33a7f14
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Adrian Sifuentes
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $2.70
+Confirmation Number: 4a59e695
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

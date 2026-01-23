@@ -1,0 +1,110 @@
+Customer Receipt Summary for: Oliver Garcia Camarena
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Spring Carnival
+Event Date: 3/14/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $654.63
+Confirmation Number: c3f74d97
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Oliver Garcia Camarena
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 13
+Event Date: 1/1/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $109.37
+Confirmation Number: efce785e
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Oliver Garcia Camarena
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 4
+Event Date: 9/25/2025
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $56.04
+Confirmation Number: b01fdb80
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Oliver Garcia Camarena
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UAB (Football)
+Event Date: 9/19/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $565.73
+Confirmation Number: 977064ec
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Oliver Garcia Camarena
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 25
+Event Date: 2/12/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $76.78
+Confirmation Number: c49ae360
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Oliver Garcia Camarena
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 24
+Event Date: 2/7/2026
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $90.00
+Confirmation Number: 05672c7b
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Oliver Garcia Camarena
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 13
+Event Date: 11/27/2025
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $29.35
+Confirmation Number: 6c764636
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Oliver Garcia Camarena
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 8
+Event Date: 12/13/2025
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $103.43
+Confirmation Number: 1e10b750
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Oliver Garcia Camarena
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 3
+Event Date: 5/28/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $44.07
+Confirmation Number: fbdfbcfe
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Oliver Garcia Camarena
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $24.92
+Confirmation Number: c7524fc9
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

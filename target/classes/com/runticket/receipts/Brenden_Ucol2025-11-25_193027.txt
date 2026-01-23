@@ -1,0 +1,88 @@
+Customer Receipt Summary for: Brenden Ucol
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 20
+Event Date: 1/24/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $26.92
+Confirmation Number: 4251e357
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Brenden Ucol
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Cultural Arts Festival
+Event Date: 3/8/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $79.42
+Confirmation Number: 67ec04a2
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Brenden Ucol
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Food & Brew Festival
+Event Date: 8/15/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $232.86
+Confirmation Number: 7017108d
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Brenden Ucol
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Jazz Ensemble Night
+Event Date: 3/25/2026
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $101.34
+Confirmation Number: d97ecc98
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Brenden Ucol
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 3
+Event Date: 9/18/2025
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $109.54
+Confirmation Number: 1174a483
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Brenden Ucol
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 2
+Event Date: 1/9/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $186.30
+Confirmation Number: 56e4bfff
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Brenden Ucol
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 13
+Event Date: 11/27/2025
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $180.25
+Confirmation Number: c3ef3a53
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Brenden Ucol
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Volleyball vs. Rice
+Event Date: 11/8/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $199.99
+Confirmation Number: 480c5fc0
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

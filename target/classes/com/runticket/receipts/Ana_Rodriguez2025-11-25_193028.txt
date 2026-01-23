@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Ana Rodriguez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Pride Week
+Event Date: 10/3/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $57.49
+Confirmation Number: c054147b
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Juan Reyes
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 3
+Event Date: 5/28/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $149.99
+Confirmation Number: 5d4d425e
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Juan Reyes
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 15
+Event Date: 1/8/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $24.07
+Confirmation Number: 86e206d9
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Juan Reyes
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $2.70
+Confirmation Number: 54c1a61b
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

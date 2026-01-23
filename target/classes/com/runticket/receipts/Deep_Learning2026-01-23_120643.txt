@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Deep Learning
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $2.70
+Confirmation Number: be15638f
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------

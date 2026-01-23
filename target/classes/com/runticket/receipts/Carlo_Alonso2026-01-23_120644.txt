@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Carlo Alonso
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $2.70
+Confirmation Number: 88288513
+Purchase Date: 2026-01-23 12:06:44
+--------------------------------------

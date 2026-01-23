@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Ana Rodriguez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $2.70
+Confirmation Number: db7be649
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Quasimodo Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UT Arlington (Basketball)
+Event Date: 1/17/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $758.96
+Confirmation Number: b913fcf8
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Quasimodo Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Cultural Arts Festival
+Event Date: 3/8/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $309.58
+Confirmation Number: 69d35c19
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Quasimodo Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 30
+Event Date: 2/28/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $235.59
+Confirmation Number: 5749aa9a
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Quasimodo Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 1
+Event Date: 11/30/2025
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $32.16
+Confirmation Number: eccb85e1
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Quasimodo Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Pride Week
+Event Date: 10/3/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $221.90
+Confirmation Number: d324515a
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Quasimodo Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 27
+Event Date: 2/19/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $43.78
+Confirmation Number: 22311580
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Quasimodo Disney
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Food & Brew Festival
+Event Date: 8/15/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $265.75
+Confirmation Number: 29cfd5b8
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

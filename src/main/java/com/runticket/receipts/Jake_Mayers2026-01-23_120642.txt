@@ -1,0 +1,121 @@
+Customer Receipt Summary for: Jake Mayers
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Women’s Soccer vs. NMSU
+Event Date: 8/28/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $101.34
+Confirmation Number: 7f51d571
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Jake Mayers
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 10
+Event Date: 4/4/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $278.11
+Confirmation Number: 31bd6096
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Jake Mayers
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 9
+Event Date: 12/18/2025
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $208.19
+Confirmation Number: 345f4475
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Jake Mayers
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. FIU (Football)
+Event Date: 10/31/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $134.22
+Confirmation Number: f7e91d13
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Jake Mayers
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Volleyball vs. Rice
+Event Date: 11/8/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $61.88
+Confirmation Number: da817182
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Jake Mayers
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 13
+Event Date: 1/1/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $43.78
+Confirmation Number: e30210ca
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Jake Mayers
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 12
+Event Date: 12/27/2025
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $30.63
+Confirmation Number: 21b04b8f
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Jake Mayers
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $239.43
+Confirmation Number: a664d5b9
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Jake Mayers
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 26
+Event Date: 2/14/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $142.43
+Confirmation Number: 4148941d
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Jake Mayers
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 11
+Event Date: 11/13/2025
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $72.84
+Confirmation Number: 9d2e3723
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Jake Mayers
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 12/22/2025
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $2.70
+Confirmation Number: 6f49fce2
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

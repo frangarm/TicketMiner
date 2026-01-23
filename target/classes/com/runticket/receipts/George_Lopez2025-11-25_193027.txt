@@ -1,0 +1,44 @@
+Customer Receipt Summary for: George Lopez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 24
+Event Date: 2/7/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $170.37
+Confirmation Number: 0f7e8399
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: George Lopez
+--------------------------------------
+Event Type: Concert
+Event Name: Gloria Trevi Live in El Paso
+Event Date: 10/15/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $2304.36
+Confirmation Number: 9366d5f0
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: George Lopez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $115.57
+Confirmation Number: f749ef95
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: George Lopez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 5
+Event Date: 11/14/2025
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $232.19
+Confirmation Number: cb5abd0d
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

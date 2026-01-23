@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Aadvika Pandey
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 13
+Event Date: 1/1/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $35.57
+Confirmation Number: d218e447
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Aadvika Pandey
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $143.78
+Confirmation Number: f799f8f4
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Aadvika Pandey
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 5
+Event Date: 10/2/2025
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $32.28
+Confirmation Number: 3cf2f309
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Aadvika Pandey
+--------------------------------------
+Event Type: Festival
+Event Name: ACL 2
+Event Date: 4/13/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $221.90
+Confirmation Number: 09b9fb32
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Aadvika Pandey
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 10
+Event Date: 4/4/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $88.35
+Confirmation Number: 80f5e8b8
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

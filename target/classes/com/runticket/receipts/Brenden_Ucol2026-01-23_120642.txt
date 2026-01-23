@@ -1,0 +1,121 @@
+Customer Receipt Summary for: Brenden Ucol
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Fest 2026
+Event Date: 4/27/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $468.50
+Confirmation Number: ad9fb836
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Brenden Ucol
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 5
+Event Date: 12/4/2025
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $121.06
+Confirmation Number: f1385e2f
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Brenden Ucol
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 1
+Event Date: 11/30/2025
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $225.35
+Confirmation Number: e5c1c0e7
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Brenden Ucol
+--------------------------------------
+Event Type: Festival
+Event Name: ACL
+Event Date: 5/2/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $687.70
+Confirmation Number: f1ac2cae
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Brenden Ucol
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 7
+Event Date: 4/16/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $140.40
+Confirmation Number: 02c1c10c
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Brenden Ucol
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 9
+Event Date: 12/18/2025
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $68.45
+Confirmation Number: c93d23cc
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Brenden Ucol
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 7
+Event Date: 4/16/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $28.71
+Confirmation Number: 78fb567f
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Brenden Ucol
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Philharmonic Strings
+Event Date: 11/21/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $52.02
+Confirmation Number: 149219c0
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Brenden Ucol
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 9
+Event Date: 12/18/2025
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $35.57
+Confirmation Number: dd7b2bbf
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Brenden Ucol
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Jazz Ensemble Night
+Event Date: 3/25/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $24.62
+Confirmation Number: 27d7bfe3
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Brenden Ucol
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $9.26
+Confirmation Number: cbf6aa39
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

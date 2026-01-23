@@ -1,0 +1,66 @@
+Customer Receipt Summary for: Ana Rodriguez
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Summer Bash
+Event Date: 6/15/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $463.02
+Confirmation Number: 574664b7
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Ana Rodriguez
+--------------------------------------
+Event Type: Festival
+Event Name: ACL
+Event Date: 5/2/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $112.29
+Confirmation Number: 8b0517b6
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Ana Rodriguez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 6
+Event Date: 1/8/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $179.44
+Confirmation Number: 17f99ed7
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Ana Rodriguez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 4
+Event Date: 9/25/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $24.07
+Confirmation Number: 7515eb5f
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Ana Rodriguez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Tech Expo
+Event Date: 3/22/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $397.26
+Confirmation Number: 58cf9a4a
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Ana Rodriguez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 28
+Event Date: 2/21/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $58.59
+Confirmation Number: 600199aa
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

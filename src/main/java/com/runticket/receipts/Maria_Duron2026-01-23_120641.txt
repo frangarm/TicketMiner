@@ -1,0 +1,132 @@
+Customer Receipt Summary for: Maria Duron
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UT Arlington (Basketball)
+Event Date: 1/17/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $84.90
+Confirmation Number: 7ec3fce0
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Maria Duron
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 31
+Event Date: 3/5/2026
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $130.92
+Confirmation Number: d986927a
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Maria Duron
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 21
+Event Date: 1/29/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $66.81
+Confirmation Number: f674a3c0
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Maria Duron
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Holiday Market
+Event Date: 12/5/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $331.50
+Confirmation Number: 4be374bc
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Maria Duron
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $2.70
+Confirmation Number: eb168f87
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Maria Duron
+--------------------------------------
+Event Type: Festival
+Event Name: Lollapallooza
+Event Date: 5/11/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $550.72
+Confirmation Number: f79f456f
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Maria Duron
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 4
+Event Date: 9/25/2025
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $88.17
+Confirmation Number: fcb2bc6c
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Maria Duron
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 7
+Event Date: 12/11/2025
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $208.19
+Confirmation Number: 56532990
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Maria Duron
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 10
+Event Date: 4/4/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $140.40
+Confirmation Number: e0cdccbb
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Maria Duron
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Farmers Market
+Event Date: 4/11/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $331.50
+Confirmation Number: 42dc13f4
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Maria Duron
+--------------------------------------
+Event Type: Festival
+Event Name: ACL 2
+Event Date: 4/13/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $13.66
+Confirmation Number: 8f1c8250
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Maria Duron
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 9
+Event Date: 3/28/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $16.39
+Confirmation Number: 7b777aee
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

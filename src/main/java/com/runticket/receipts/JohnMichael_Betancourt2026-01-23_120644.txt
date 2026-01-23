@@ -1,0 +1,11 @@
+Customer Receipt Summary for: JohnMichael Betancourt
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 12/22/2025
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $2.70
+Confirmation Number: 022c0962
+Purchase Date: 2026-01-23 12:06:44
+--------------------------------------

@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Francisco Garcia
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: GA
+Number of Tickets: 1
+Total Price: $15.00
+Confirmation Number: 49fdcf8c
+Purchase Date: 2025-11-25 14:10:57
+--------------------------------------

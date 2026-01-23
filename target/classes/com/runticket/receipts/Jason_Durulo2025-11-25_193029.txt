@@ -1,0 +1,121 @@
+Customer Receipt Summary for: Jason Durulo
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Choir Holiday Gala
+Event Date: 12/2/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $192.35
+Confirmation Number: 90dc9b98
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Jason Durulo
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 9
+Event Date: 12/18/2025
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $60.46
+Confirmation Number: ffb1c5c8
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Jason Durulo
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 8
+Event Date: 3/3/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $143.46
+Confirmation Number: 56ce32ca
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Jason Durulo
+--------------------------------------
+Event Type: Festival
+Event Name: EDC
+Event Date: 5/11/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $61.96
+Confirmation Number: ae4a0f57
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Jason Durulo
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Women’s Soccer vs. NMSU
+Event Date: 8/28/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $61.96
+Confirmation Number: a432b63c
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Jason Durulo
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. FIU (Football)
+Event Date: 10/31/2026
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $239.77
+Confirmation Number: ae1cabe1
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Jason Durulo
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 7
+Event Date: 10/16/2025
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $91.60
+Confirmation Number: 5289db7b
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Jason Durulo
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 4
+Event Date: 11/29/2025
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $53.07
+Confirmation Number: 51db25d3
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Jason Durulo
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 9
+Event Date: 10/30/2025
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $65.90
+Confirmation Number: 2328ea5d
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Jason Durulo
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Alumni Band Reunion Concert
+Event Date: 10/25/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $52.07
+Confirmation Number: 28748be1
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Jason Durulo
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 24
+Event Date: 2/7/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $184.05
+Confirmation Number: 3fc621ad
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

@@ -1,0 +1,132 @@
+Customer Receipt Summary for: Cia Martin
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 19
+Event Date: 1/22/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $76.68
+Confirmation Number: 6f268303
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Cia Martin
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $2.70
+Confirmation Number: e34bf9ca
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Cia Martin
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Philharmonic Strings
+Event Date: 11/21/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $31.19
+Confirmation Number: 59231c9e
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Cia Martin
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 15
+Event Date: 1/8/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $43.78
+Confirmation Number: 81450910
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Cia Martin
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 23
+Event Date: 2/5/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $68.45
+Confirmation Number: 4493040c
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Cia Martin
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 10
+Event Date: 11/6/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $25.50
+Confirmation Number: 4072bfe8
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Cia Martin
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. NMSU Aggies (Football)
+Event Date: 9/12/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $84.90
+Confirmation Number: bc744cd0
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Cia Martin
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $80.79
+Confirmation Number: 4c9adbe1
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Cia Martin
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Philharmonic Strings
+Event Date: 11/21/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $35.57
+Confirmation Number: 83785d47
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Cia Martin
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 6
+Event Date: 10/9/2025
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $109.54
+Confirmation Number: 1f0f6c7f
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Cia Martin
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 4
+Event Date: 5/20/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $36.95
+Confirmation Number: e04cfca0
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Cia Martin
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UTSA (Football)
+Event Date: 10/10/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $156.15
+Confirmation Number: 31c2c742
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

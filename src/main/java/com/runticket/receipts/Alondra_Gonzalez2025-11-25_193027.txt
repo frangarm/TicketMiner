@@ -1,0 +1,66 @@
+Customer Receipt Summary for: Alondra Gonzalez
+--------------------------------------
+Event Type: Concert
+Event Name: Los Ángeles Azules en Concierto
+Event Date: 9/18/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $1997.48
+Confirmation Number: cdcf6037
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Alondra Gonzalez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 17
+Event Date: 1/15/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $27.35
+Confirmation Number: 2d0cd435
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Alondra Gonzalez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 8
+Event Date: 3/3/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $43.78
+Confirmation Number: a9fb9141
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Alondra Gonzalez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 25
+Event Date: 2/12/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $45.42
+Confirmation Number: 969ecf43
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Alondra Gonzalez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 12
+Event Date: 3/22/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $9.54
+Confirmation Number: 6edb99aa
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Alondra Gonzalez
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Lights Winter Fest
+Event Date: 12/12/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $265.75
+Confirmation Number: cdcd0772
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

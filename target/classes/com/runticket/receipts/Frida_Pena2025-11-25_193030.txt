@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Frida Pena
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 1
+Event Date: 11/20/2025
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $29.35
+Confirmation Number: 7b051830
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Dak Prescot
+--------------------------------------
+Event Type: Festival
+Event Name: Minerpalooza
+Event Date: 11/1/2025
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $2.70
+Confirmation Number: b99c7992
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Dak Prescot
+--------------------------------------
+Event Type: Festival
+Event Name: Minerpalooza
+Event Date: 11/1/2025
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $2.70
+Confirmation Number: 2d342a7f
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Dak Prescot
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 6
+Event Date: 1/8/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $19.83
+Confirmation Number: d96d3218
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

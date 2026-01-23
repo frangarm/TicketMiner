@@ -1,0 +1,121 @@
+Customer Receipt Summary for: Belle Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Spring Music Fest
+Event Date: 4/20/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $1039.86
+Confirmation Number: e11360b1
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Belle Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Jazz Ensemble Night
+Event Date: 3/25/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $160.75
+Confirmation Number: 14daf7c7
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Belle Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 11
+Event Date: 11/13/2025
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $59.60
+Confirmation Number: 8aa49253
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Belle Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Spring Carnival
+Event Date: 3/14/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $180.50
+Confirmation Number: 0cff632b
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Belle Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 3
+Event Date: 5/28/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $27.38
+Confirmation Number: 3ac9ae8e
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Belle Disney
+--------------------------------------
+Event Type: Concert
+Event Name: Banda MS Tour 2026
+Event Date: 9/4/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $1484.36
+Confirmation Number: a36f925e
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Belle Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 4
+Event Date: 9/25/2025
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $118.26
+Confirmation Number: 2e5952b7
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Belle Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 27
+Event Date: 2/19/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $47.15
+Confirmation Number: bc75e412
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Belle Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $250.92
+Confirmation Number: 14462f16
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Belle Disney
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $49.62
+Confirmation Number: f95722ed
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Belle Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 3
+Event Date: 9/18/2025
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $24.92
+Confirmation Number: 1b9a3936
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

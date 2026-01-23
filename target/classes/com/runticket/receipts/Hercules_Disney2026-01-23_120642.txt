@@ -1,0 +1,209 @@
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 8
+Event Date: 10/23/2025
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $93.89
+Confirmation Number: 112451ae
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 13
+Event Date: 1/1/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $66.81
+Confirmation Number: 6e5c80a4
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 15
+Event Date: 1/8/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $208.19
+Confirmation Number: 8cd32541
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 21
+Event Date: 1/29/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $126.00
+Confirmation Number: f261bf81
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Fiesta Latina
+Event Date: 5/5/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $397.26
+Confirmation Number: 38bda802
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 1
+Event Date: 11/20/2025
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $167.09
+Confirmation Number: 22e76e7f
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 5
+Event Date: 10/2/2025
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $130.92
+Confirmation Number: 774d2b84
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 29
+Event Date: 2/26/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $43.78
+Confirmation Number: 4b13ac28
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 26
+Event Date: 2/14/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $77.21
+Confirmation Number: 9e658f42
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Lights Winter Fest
+Event Date: 12/12/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $413.69
+Confirmation Number: 2ea6371a
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 5
+Event Date: 12/4/2025
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $130.92
+Confirmation Number: 6f54ddc3
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $2.70
+Confirmation Number: 7980a19b
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Liberty (Football)
+Event Date: 11/21/2026
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $315.06
+Confirmation Number: 5a46b15e
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 27
+Event Date: 2/19/2026
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $88.17
+Confirmation Number: 8eb392fd
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 9
+Event Date: 12/18/2025
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $121.06
+Confirmation Number: 01d20678
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 17
+Event Date: 1/15/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $167.09
+Confirmation Number: 0f930e90
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $2.70
+Confirmation Number: 0d23d6cc
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Holiday Market
+Event Date: 12/5/2026
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $216.42
+Confirmation Number: 0ddca575
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Hercules Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 12
+Event Date: 11/20/2025
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $37.75
+Confirmation Number: e942c361
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

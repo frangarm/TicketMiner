@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Alondra Mariscal
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $2.70
+Confirmation Number: 393b51ea
+Purchase Date: 2026-01-23 12:06:44
+--------------------------------------

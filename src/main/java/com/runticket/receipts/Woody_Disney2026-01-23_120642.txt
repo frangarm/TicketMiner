@@ -1,0 +1,176 @@
+Customer Receipt Summary for: Woody Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 22
+Event Date: 1/31/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $77.21
+Confirmation Number: 5eeea563
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Woody Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 10
+Event Date: 12/20/2025
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $123.80
+Confirmation Number: cb977883
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Woody Disney
+--------------------------------------
+Event Type: Concert
+Event Name: Gloria Trevi Live in El Paso
+Event Date: 10/15/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $101.60
+Confirmation Number: e0048866
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Woody Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 1
+Event Date: 11/20/2025
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $180.25
+Confirmation Number: f25b43cf
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Woody Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. NMSU Aggies (Football)
+Event Date: 9/12/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $195.85
+Confirmation Number: 685a5602
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Woody Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 19
+Event Date: 1/22/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $19.12
+Confirmation Number: 03a82c9b
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Woody Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 10
+Event Date: 11/6/2025
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $29.01
+Confirmation Number: b7f63f53
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Woody Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 2
+Event Date: 11/22/2025
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $114.48
+Confirmation Number: f32c7f4e
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Woody Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 1
+Event Date: 11/20/2025
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $88.17
+Confirmation Number: 19c677ff
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Woody Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 9
+Event Date: 10/30/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $25.50
+Confirmation Number: cedb2204
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Woody Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 4
+Event Date: 9/25/2025
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $121.06
+Confirmation Number: 064f63ab
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Woody Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 21
+Event Date: 1/29/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $43.78
+Confirmation Number: c66742c0
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Woody Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 5
+Event Date: 12/4/2025
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $109.54
+Confirmation Number: 69481da8
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Woody Disney
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Holiday Market
+Event Date: 12/5/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $134.22
+Confirmation Number: 70acd57d
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Woody Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 6
+Event Date: 12/6/2025
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $142.43
+Confirmation Number: ba4b11fc
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Woody Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 8
+Event Date: 12/13/2025
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $69.76
+Confirmation Number: 9788b69c
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

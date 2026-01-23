@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Ana Rodriguez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 4
+Event Date: 9/25/2025
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $19.12
+Confirmation Number: 4e3a2398
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

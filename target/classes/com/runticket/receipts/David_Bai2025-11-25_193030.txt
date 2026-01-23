@@ -1,0 +1,22 @@
+Customer Receipt Summary for: David Bai
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $2.70
+Confirmation Number: 9386800b
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: David Bai
+--------------------------------------
+Event Type: Festival
+Event Name: Minerpalooza
+Event Date: 11/1/2025
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $2.70
+Confirmation Number: b87d20e0
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

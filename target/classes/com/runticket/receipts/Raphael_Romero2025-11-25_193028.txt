@@ -1,0 +1,66 @@
+Customer Receipt Summary for: Raphael Romero
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 28
+Event Date: 2/21/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $282.18
+Confirmation Number: ceabdb9b
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Raphael Romero
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 13
+Event Date: 1/1/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $35.57
+Confirmation Number: 91ccdbd5
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Raphael Romero
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $2.70
+Confirmation Number: a791758c
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Raphael Romero
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. New Mexico (Basketball)
+Event Date: 12/10/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $199.99
+Confirmation Number: 752c1354
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Raphael Romero
+--------------------------------------
+Event Type: Concert
+Event Name: Los Ángeles Azules en Concierto
+Event Date: 9/18/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $419.18
+Confirmation Number: 088b073b
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Raphael Romero
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. New Mexico (Basketball)
+Event Date: 12/10/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $380.82
+Confirmation Number: ff5928e7
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

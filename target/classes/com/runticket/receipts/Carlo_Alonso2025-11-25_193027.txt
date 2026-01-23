@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Carlo Alonso
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 8
+Event Date: 10/23/2025
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $73.80
+Confirmation Number: fdd4853d
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Carlo Alonso
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 19
+Event Date: 1/22/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $47.15
+Confirmation Number: 7c1fd09e
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Carlo Alonso
+--------------------------------------
+Event Type: Concert
+Event Name: Karol G Live
+Event Date: 4/29/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $3401.60
+Confirmation Number: c86d4e4f
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Carlo Alonso
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 3
+Event Date: 9/18/2025
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $17.50
+Confirmation Number: f95ac316
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

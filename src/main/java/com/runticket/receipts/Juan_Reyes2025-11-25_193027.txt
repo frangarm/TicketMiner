@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Juan Reyes
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 2
+Event Date: 1/9/2026
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $91.07
+Confirmation Number: 2639b980
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Juan Reyes
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 11
+Event Date: 11/13/2025
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $72.84
+Confirmation Number: 0b257810
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Juan Reyes
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 5
+Event Date: 12/4/2025
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $130.92
+Confirmation Number: 3f4d3438
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Juan Reyes
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 13
+Event Date: 1/1/2026
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $91.48
+Confirmation Number: 78630b97
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Juan Reyes
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 21
+Event Date: 1/29/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $101.34
+Confirmation Number: f2164fba
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Juan Reyes
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 20
+Event Date: 1/24/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $95.85
+Confirmation Number: 872d1c13
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Juan Reyes
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 10
+Event Date: 12/20/2025
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $103.31
+Confirmation Number: 18460301
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

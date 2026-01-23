@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $2.70
+Confirmation Number: caa49dfd
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $2.70
+Confirmation Number: ae36c5aa
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Anthony Casillas
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $2.70
+Confirmation Number: 32ece0a3
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------

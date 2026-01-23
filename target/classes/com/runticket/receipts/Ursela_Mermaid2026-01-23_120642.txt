@@ -1,0 +1,22 @@
+Customer Receipt Summary for: Ursela Mermaid
+--------------------------------------
+Event Type: Festival
+Event Name: Minerpalooza
+Event Date: 11/1/2025
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $2.70
+Confirmation Number: 14a6ca1b
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Ursela Mermaid
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Alumni Band Reunion Concert
+Event Date: 10/25/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $47.15
+Confirmation Number: 946fe1f5
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

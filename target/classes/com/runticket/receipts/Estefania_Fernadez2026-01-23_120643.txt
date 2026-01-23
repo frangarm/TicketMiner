@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Estefania Fernadez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $2.70
+Confirmation Number: e836eca9
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Estefania Fernadez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $2.70
+Confirmation Number: da23fd57
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Estefania Fernadez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $2.70
+Confirmation Number: 7d9e886b
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Estefania Fernadez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 12/22/2025
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $2.70
+Confirmation Number: 7dbd219b
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Estefania Fernadez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $2.70
+Confirmation Number: 861a0639
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------

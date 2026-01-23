@@ -1,0 +1,44 @@
+Customer Receipt Summary for: George Lopez
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Summer Bash
+Event Date: 6/15/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $232.86
+Confirmation Number: 226f517d
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: George Lopez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 1
+Event Date: 11/30/2025
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $30.08
+Confirmation Number: fa6c1f15
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: George Lopez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 3
+Event Date: 9/18/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $24.07
+Confirmation Number: f5f923d4
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: George Lopez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UTSA (Football)
+Event Date: 10/10/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $35.57
+Confirmation Number: 5ea3d7dd
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

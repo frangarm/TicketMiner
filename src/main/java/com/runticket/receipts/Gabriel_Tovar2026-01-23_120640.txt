@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Gabriel Tovar
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 7
+Event Date: 10/16/2025
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $180.50
+Confirmation Number: bfc09a94
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Gabriel Tovar
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 7
+Event Date: 10/16/2025
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $38.26
+Confirmation Number: 4ba5f280
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Gabriel Tovar
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 5
+Event Date: 12/4/2025
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $39.73
+Confirmation Number: df9c44d1
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Gabriel Tovar
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 2
+Event Date: 9/11/2025
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $150.86
+Confirmation Number: fc4889f3
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Gabriel Tovar
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Jazz Ensemble Night
+Event Date: 3/25/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $61.96
+Confirmation Number: 45634f12
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

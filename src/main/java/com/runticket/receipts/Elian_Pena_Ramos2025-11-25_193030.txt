@@ -1,0 +1,66 @@
+Customer Receipt Summary for: Elian Pena Ramos
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UAB (Football)
+Event Date: 9/19/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $121.23
+Confirmation Number: 0f94e9f5
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Elian Pena Ramos
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Volleyball vs. Rice
+Event Date: 11/8/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $175.55
+Confirmation Number: c779e1fa
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Elian Pena Ramos
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Cultural Arts Festival
+Event Date: 3/8/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $71.84
+Confirmation Number: c98cb6b6
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Elian Pena Ramos
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 2
+Event Date: 9/11/2025
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $61.96
+Confirmation Number: 8c34b83f
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Elian Pena Ramos
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 12/22/2025
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $2.70
+Confirmation Number: 8bfb2560
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Elian Pena Ramos
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $2.70
+Confirmation Number: ac2001f5
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

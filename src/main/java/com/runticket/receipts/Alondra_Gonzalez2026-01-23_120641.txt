@@ -1,0 +1,110 @@
+Customer Receipt Summary for: Alondra Gonzalez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Cultural Arts Festival
+Event Date: 3/8/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $139.69
+Confirmation Number: d362c9ea
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Alondra Gonzalez
+--------------------------------------
+Event Type: Festival
+Event Name: Coachella 2
+Event Date: 10/21/2025
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $550.72
+Confirmation Number: 2fdfc467
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Alondra Gonzalez
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Philharmonic Strings
+Event Date: 11/21/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $112.29
+Confirmation Number: 5bb892c7
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Alondra Gonzalez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 10
+Event Date: 4/4/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $54.07
+Confirmation Number: fb4584c3
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Alondra Gonzalez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Fiesta Latina
+Event Date: 5/5/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $46.53
+Confirmation Number: 6b8cb25a
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Alondra Gonzalez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 8
+Event Date: 10/23/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $25.50
+Confirmation Number: a046641a
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Alondra Gonzalez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 25
+Event Date: 2/12/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $19.12
+Confirmation Number: ef3a858c
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Alondra Gonzalez
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Holiday Market
+Event Date: 12/5/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $73.93
+Confirmation Number: 5bbe8c81
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Alondra Gonzalez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UTSA (Football)
+Event Date: 10/10/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $183.53
+Confirmation Number: 9fdb189f
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Alondra Gonzalez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 24
+Event Date: 2/7/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $58.59
+Confirmation Number: 27abab16
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

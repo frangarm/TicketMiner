@@ -1,0 +1,110 @@
+Customer Receipt Summary for: David Bai
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 7
+Event Date: 4/16/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $49.00
+Confirmation Number: 42865606
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: David Bai
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 9
+Event Date: 3/28/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $8.85
+Confirmation Number: 6266da47
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: David Bai
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. North Texas (Basketball)
+Event Date: 2/17/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $195.31
+Confirmation Number: 62fe2b6e
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: David Bai
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $17.50
+Confirmation Number: 0d938823
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: David Bai
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 15
+Event Date: 1/8/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $39.73
+Confirmation Number: c135ab35
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: David Bai
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 12
+Event Date: 12/27/2025
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $36.28
+Confirmation Number: b6ccc400
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: David Bai
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 25
+Event Date: 2/12/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $29.35
+Confirmation Number: 606d596e
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: David Bai
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 7
+Event Date: 4/16/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $108.88
+Confirmation Number: 7f0a3d15
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: David Bai
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $2.70
+Confirmation Number: 5b942369
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: David Bai
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 11
+Event Date: 12/25/2025
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $79.74
+Confirmation Number: df31927b
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

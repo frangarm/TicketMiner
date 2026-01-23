@@ -1,0 +1,66 @@
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. New Mexico (Basketball)
+Event Date: 12/10/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $61.96
+Confirmation Number: f9d7ed9a
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 11
+Event Date: 11/13/2025
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $34.30
+Confirmation Number: 3ae1bd1c
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Lights Winter Fest
+Event Date: 12/12/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $358.30
+Confirmation Number: 4d774173
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Spring Music Fest
+Event Date: 4/20/2026
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $521.27
+Confirmation Number: e1ea274d
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Liberty (Football)
+Event Date: 11/21/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $32.32
+Confirmation Number: 4a8d1f1d
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Pinocchio Disney
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 30
+Event Date: 2/28/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $254.58
+Confirmation Number: 5dd792f2
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

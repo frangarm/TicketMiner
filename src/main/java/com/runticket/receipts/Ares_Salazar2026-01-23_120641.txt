@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Ares Salazar
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 12/22/2025
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $2.70
+Confirmation Number: 38cf1d40
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Ares Salazar
+--------------------------------------
+Event Type: Concert
+Event Name: Karol G Live
+Event Date: 4/29/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $879.75
+Confirmation Number: e264eaab
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Ares Salazar
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 4
+Event Date: 9/25/2025
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $121.06
+Confirmation Number: 35282b85
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Ares Salazar
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Food & Brew Festival
+Event Date: 8/15/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $90.37
+Confirmation Number: fd7041e9
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Ares Salazar
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 27
+Event Date: 2/19/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $167.09
+Confirmation Number: d77b5fec
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

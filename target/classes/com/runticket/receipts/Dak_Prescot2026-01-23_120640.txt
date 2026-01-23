@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Dak Prescot
+--------------------------------------
+Event Type: Concert
+Event Name: RBD Live
+Event Date: 2/18/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $1921.39
+Confirmation Number: c25e4274
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Dak Prescot
+--------------------------------------
+Event Type: Festival
+Event Name: Lollapallooza
+Event Date: 5/11/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $134.22
+Confirmation Number: e0e88030
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Dak Prescot
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. FIU (Football)
+Event Date: 10/31/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $528.79
+Confirmation Number: e352b08f
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Dak Prescot
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 21
+Event Date: 1/29/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $180.25
+Confirmation Number: e061d5b3
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Dak Prescot
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 15
+Event Date: 1/8/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $121.06
+Confirmation Number: d2a0ba80
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

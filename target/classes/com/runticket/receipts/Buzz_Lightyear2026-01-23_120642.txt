@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Buzz Lightyear
+--------------------------------------
+Event Type: Festival
+Event Name: Lollapallooza
+Event Date: 5/11/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $32.32
+Confirmation Number: f0acb5d7
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

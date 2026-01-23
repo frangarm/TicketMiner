@@ -1,0 +1,22 @@
+Customer Receipt Summary for: Dak Prescot
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 8
+Event Date: 3/3/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $54.07
+Confirmation Number: 802e18b6
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Dak Prescot
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 6
+Event Date: 1/8/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $19.83
+Confirmation Number: 997fe183
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

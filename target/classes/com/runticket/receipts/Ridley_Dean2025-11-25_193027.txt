@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Ridley Dean
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 24
+Event Date: 2/7/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $36.28
+Confirmation Number: 0eb76657
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Ridley Dean
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Food & Brew Festival
+Event Date: 8/15/2026
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $417.56
+Confirmation Number: a3e6e440
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Ridley Dean
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 1
+Event Date: 11/30/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $18.14
+Confirmation Number: 1472e69a
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Ridley Dean
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 5
+Event Date: 11/14/2025
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $64.45
+Confirmation Number: 4969fc63
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Ridley Dean
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Alumni Band Reunion Concert
+Event Date: 10/25/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $32.32
+Confirmation Number: 8cd5c64e
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Jairo Ruvalcaba
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 2
+Event Date: 1/9/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $8.85
+Confirmation Number: dc9913a3
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

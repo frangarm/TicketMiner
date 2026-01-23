@@ -1,0 +1,99 @@
+Customer Receipt Summary for: Carlo Alonso
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 19
+Event Date: 1/22/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $113.82
+Confirmation Number: a9ebc8d6
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Carlo Alonso
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 31
+Event Date: 3/5/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $113.82
+Confirmation Number: c35e19ab
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Carlo Alonso
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Jazz Ensemble Night
+Event Date: 3/25/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $42.21
+Confirmation Number: b17c7d3f
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Carlo Alonso
+--------------------------------------
+Event Type: Concert
+Event Name: Gloria Trevi Live in El Paso
+Event Date: 10/15/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $823.05
+Confirmation Number: 4ed74019
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Carlo Alonso
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Cultural Arts Festival
+Event Date: 3/8/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $279.27
+Confirmation Number: 59bba559
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Carlo Alonso
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 1
+Event Date: 11/30/2025
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $79.89
+Confirmation Number: 0d81bd4f
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Carlo Alonso
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Cook-Off
+Event Date: 9/20/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $743.52
+Confirmation Number: 93f2d0f9
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Carlo Alonso
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 2
+Event Date: 1/9/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $108.88
+Confirmation Number: a4711db9
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Carlo Alonso
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 24
+Event Date: 2/7/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $184.05
+Confirmation Number: 6773ee7a
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

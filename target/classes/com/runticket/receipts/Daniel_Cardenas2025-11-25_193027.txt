@@ -1,0 +1,88 @@
+Customer Receipt Summary for: Daniel Cardenas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 1
+Event Date: 11/20/2025
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $47.15
+Confirmation Number: 40be7d95
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Daniel Cardenas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 6
+Event Date: 10/9/2025
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $118.26
+Confirmation Number: 5db39eb2
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Daniel Cardenas
+--------------------------------------
+Event Type: Concert
+Event Name: Taylor Swift Live
+Event Date: 3/23/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $4923.27
+Confirmation Number: 6a5ade36
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Daniel Cardenas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 12
+Event Date: 11/20/2025
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $84.87
+Confirmation Number: 0ecdef37
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Daniel Cardenas
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $20.46
+Confirmation Number: c1e0f0a5
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Daniel Cardenas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 2
+Event Date: 9/11/2025
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $47.15
+Confirmation Number: 3bfd319a
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Daniel Cardenas
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 8
+Event Date: 3/3/2026
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $95.32
+Confirmation Number: 6521f458
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Daniel Cardenas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 8
+Event Date: 10/23/2025
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $50.10
+Confirmation Number: b4851f3b
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

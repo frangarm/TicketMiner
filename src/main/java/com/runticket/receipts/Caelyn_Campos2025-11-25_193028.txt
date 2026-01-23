@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Caelyn Campos
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. North Texas (Basketball)
+Event Date: 2/17/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $150.86
+Confirmation Number: ed6ee314
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Caelyn Campos
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 4
+Event Date: 9/25/2025
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $109.37
+Confirmation Number: aeef0aaf
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Caelyn Campos
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Choir Holiday Gala
+Event Date: 12/2/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $10.60
+Confirmation Number: 179dcc08
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Caelyn Campos
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Cultural Arts Festival
+Event Date: 3/8/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $447.19
+Confirmation Number: ee425727
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Caelyn Campos
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Spring Music Fest
+Event Date: 4/20/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $289.14
+Confirmation Number: 73c0c0cf
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

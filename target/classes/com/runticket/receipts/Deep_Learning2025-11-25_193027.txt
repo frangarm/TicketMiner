@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Deep Learning
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 27
+Event Date: 2/19/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $35.57
+Confirmation Number: 2a651cbd
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Deep Learning
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Spring Carnival
+Event Date: 3/14/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $605.50
+Confirmation Number: 40a71f2c
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Deep Learning
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UAB (Football)
+Event Date: 9/19/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $167.09
+Confirmation Number: b2a38f04
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Deep Learning
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 13
+Event Date: 1/1/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $150.65
+Confirmation Number: 4dcae05e
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Deep Learning
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 2
+Event Date: 1/9/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $61.60
+Confirmation Number: 190fc93c
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

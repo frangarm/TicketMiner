@@ -1,0 +1,44 @@
+Customer Receipt Summary for: Fernando Guzman
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 8
+Event Date: 3/3/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $43.78
+Confirmation Number: 29e1ad78
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Fernando Guzman
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. SMU (Football)
+Event Date: 9/5/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $68.45
+Confirmation Number: d0ad2b60
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Fernando Guzman
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 3
+Event Date: 5/28/2026
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $105.48
+Confirmation Number: 38ecb548
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Fernando Guzman
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 10
+Event Date: 11/6/2025
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $55.31
+Confirmation Number: 3eafe4c3
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

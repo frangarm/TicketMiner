@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Sports Fan
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Cook-Off
+Event Date: 9/20/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $397.81
+Confirmation Number: 164a905e
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Sports Fan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 7
+Event Date: 12/11/2025
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $113.82
+Confirmation Number: 0c154bf4
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Sports Fan
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 8
+Event Date: 3/3/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $39.73
+Confirmation Number: 4b80512f
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Sports Fan
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Jazz Ensemble Night
+Event Date: 3/25/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $42.21
+Confirmation Number: 94ab244f
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Sports Fan
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $2.70
+Confirmation Number: ac83b06f
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

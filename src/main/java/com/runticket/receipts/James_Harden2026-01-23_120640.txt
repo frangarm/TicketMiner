@@ -1,0 +1,66 @@
+Customer Receipt Summary for: James Harden
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 14
+Event Date: 1/3/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $51.14
+Confirmation Number: 68caf00f
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: James Harden
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 21
+Event Date: 1/29/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $52.02
+Confirmation Number: 6b75573c
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: James Harden
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Pride Week
+Event Date: 10/3/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $41.03
+Confirmation Number: dcb75964
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: James Harden
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 28
+Event Date: 2/21/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $136.86
+Confirmation Number: 84c1b60a
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: James Harden
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 29
+Event Date: 2/26/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $52.02
+Confirmation Number: e46c3338
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: James Harden
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 14
+Event Date: 1/3/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $282.18
+Confirmation Number: 01b4fe9d
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Burger King
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 13
+Event Date: 1/1/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $84.90
+Confirmation Number: dd7351cc
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Burger King
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 26
+Event Date: 2/14/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $189.02
+Confirmation Number: 1ef45199
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Burger King
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 6
+Event Date: 10/9/2025
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $27.35
+Confirmation Number: f46dc3be
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Burger King
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Spring Carnival
+Event Date: 3/14/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $199.99
+Confirmation Number: b3dd8bf6
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Burger King
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 8
+Event Date: 12/13/2025
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $235.59
+Confirmation Number: 33c859df
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Burger King
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 9
+Event Date: 12/18/2025
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $109.54
+Confirmation Number: 568f955c
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Burger King
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 1
+Event Date: 11/20/2025
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $66.81
+Confirmation Number: 1d1076fd
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

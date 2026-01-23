@@ -1,0 +1,99 @@
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 23
+Event Date: 2/5/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $98.99
+Confirmation Number: 766151b7
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 14
+Event Date: 1/3/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $68.18
+Confirmation Number: 9dd3ad70
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Women’s Soccer vs. NMSU
+Event Date: 8/28/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $91.60
+Confirmation Number: 0f1e7dcc
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Spring Carnival
+Event Date: 3/14/2026
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $417.56
+Confirmation Number: 167021e1
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Film Fest
+Event Date: 11/15/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $27.38
+Confirmation Number: 6250e5b6
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 10
+Event Date: 4/4/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $119.98
+Confirmation Number: a3a0c56b
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 10
+Event Date: 12/20/2025
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $86.65
+Confirmation Number: b87145ce
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 11
+Event Date: 12/25/2025
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $47.15
+Confirmation Number: e77ea76d
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Jazz Ensemble Night
+Event Date: 3/25/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $12.56
+Confirmation Number: ef1f2717
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

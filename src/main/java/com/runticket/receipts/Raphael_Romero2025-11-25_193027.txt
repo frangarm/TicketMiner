@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Raphael Romero
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 19
+Event Date: 1/22/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $35.57
+Confirmation Number: f11e185d
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Raphael Romero
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Pride Week
+Event Date: 10/3/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $287.67
+Confirmation Number: 4f512f92
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Raphael Romero
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 9
+Event Date: 3/28/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $140.40
+Confirmation Number: cbb61f7d
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

@@ -1,0 +1,121 @@
+Customer Receipt Summary for: Michael Close
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Cook-Off
+Event Date: 9/20/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $221.90
+Confirmation Number: a503bc5a
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Michael Close
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Holiday Market
+Event Date: 12/5/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $194.50
+Confirmation Number: 8153442e
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Michael Close
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 3
+Event Date: 11/27/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $24.07
+Confirmation Number: 11e5cd88
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Michael Close
+--------------------------------------
+Event Type: Concert
+Event Name: Gloria Trevi Live in El Paso
+Event Date: 10/15/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $596.17
+Confirmation Number: cf0cee44
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Michael Close
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 13
+Event Date: 1/1/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $35.57
+Confirmation Number: d60e1078
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Michael Close
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 13
+Event Date: 11/27/2025
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $52.02
+Confirmation Number: 2a403b35
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Michael Close
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 1
+Event Date: 11/20/2025
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $126.00
+Confirmation Number: d8e959c2
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Michael Close
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 11
+Event Date: 12/25/2025
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $150.65
+Confirmation Number: 8ebbb4c3
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Michael Close
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 1
+Event Date: 11/20/2025
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $27.35
+Confirmation Number: 1f66d108
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Michael Close
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Choir Holiday Gala
+Event Date: 12/2/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $55.31
+Confirmation Number: d718cad8
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------
+Customer Receipt Summary for: Michael Close
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Jazz Ensemble Night
+Event Date: 3/25/2026
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $68.45
+Confirmation Number: e6624731
+Purchase Date: 2025-11-25 19:30:29
+--------------------------------------

@@ -1,0 +1,99 @@
+Customer Receipt Summary for: Christina Perez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 4
+Event Date: 5/20/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $16.39
+Confirmation Number: 491a3b52
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Christina Perez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 4
+Event Date: 5/20/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $140.40
+Confirmation Number: 53162b9c
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Christina Perez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 24
+Event Date: 2/7/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $203.92
+Confirmation Number: 1ef69410
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Christina Perez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 8
+Event Date: 12/13/2025
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $123.80
+Confirmation Number: 2f7108fe
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Christina Perez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $213.68
+Confirmation Number: e77ac308
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Christina Perez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 6
+Event Date: 1/8/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $186.30
+Confirmation Number: 610614d0
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Christina Perez
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Western Kentucky (Basketball)
+Event Date: 2/14/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $123.26
+Confirmation Number: 6b88dcfe
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Christina Perez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 3
+Event Date: 5/28/2026
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $71.21
+Confirmation Number: 629dbbac
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Christina Perez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $2.70
+Confirmation Number: ae07b905
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

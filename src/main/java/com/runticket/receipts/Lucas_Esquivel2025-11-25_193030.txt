@@ -1,0 +1,66 @@
+Customer Receipt Summary for: Lucas Esquivel
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 5
+Event Date: 12/4/2025
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $60.46
+Confirmation Number: 2523654e
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Lucas Esquivel
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Film Fest
+Event Date: 11/15/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $81.71
+Confirmation Number: 2bc0def3
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Lucas Esquivel
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 9
+Event Date: 3/28/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $29.25
+Confirmation Number: 1c91d369
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Lucas Esquivel
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 5
+Event Date: 12/4/2025
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $47.15
+Confirmation Number: 35ee50f9
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Lucas Esquivel
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 15
+Event Date: 1/8/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $150.86
+Confirmation Number: 7de11bcf
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Lucas Esquivel
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 12
+Event Date: 12/27/2025
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $153.81
+Confirmation Number: e39ea8bc
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

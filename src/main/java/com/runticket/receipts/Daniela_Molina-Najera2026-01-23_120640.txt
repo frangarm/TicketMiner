@@ -1,0 +1,66 @@
+Customer Receipt Summary for: Daniela Molina-Najera
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 10
+Event Date: 12/20/2025
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $27.87
+Confirmation Number: 59805d59
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Daniela Molina-Najera
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 15
+Event Date: 1/8/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $29.35
+Confirmation Number: fd6de325
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Daniela Molina-Najera
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 5
+Event Date: 12/4/2025
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $47.15
+Confirmation Number: 2bfc6b68
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Daniela Molina-Najera
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 20
+Event Date: 1/24/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $68.18
+Confirmation Number: 90cb6153
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Daniela Molina-Najera
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 1
+Event Date: 11/30/2025
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $15.04
+Confirmation Number: d51a9250
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Daniela Molina-Najera
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 21
+Event Date: 1/29/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $39.73
+Confirmation Number: 6597434f
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

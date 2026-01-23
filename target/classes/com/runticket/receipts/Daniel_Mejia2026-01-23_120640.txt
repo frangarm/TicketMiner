@@ -1,0 +1,99 @@
+Customer Receipt Summary for: Daniel Mejia
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Western Kentucky (Basketball)
+Event Date: 2/14/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $287.67
+Confirmation Number: 4effef9b
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Daniel Mejia
+--------------------------------------
+Event Type: Concert
+Event Name: Gloria Trevi Live in El Paso
+Event Date: 10/15/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $249.84
+Confirmation Number: 94eec322
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Daniel Mejia
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 8
+Event Date: 12/13/2025
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $95.85
+Confirmation Number: 00acde04
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Daniel Mejia
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Western Kentucky (Basketball)
+Event Date: 2/14/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $57.49
+Confirmation Number: 84228542
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Daniel Mejia
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $35.57
+Confirmation Number: d3147fdc
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Daniel Mejia
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Film Fest
+Event Date: 11/15/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $101.34
+Confirmation Number: fc3e48cc
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Daniel Mejia
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. North Texas (Basketball)
+Event Date: 2/17/2026
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $112.29
+Confirmation Number: 89ef0c0e
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Daniel Mejia
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 13
+Event Date: 1/1/2026
+Ticket Type: Silver
+Number of Tickets: 6
+Total Price: $150.65
+Confirmation Number: 8ef46e02
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Daniel Mejia
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Farmers Market
+Event Date: 4/11/2026
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $167.09
+Confirmation Number: a201dbec
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

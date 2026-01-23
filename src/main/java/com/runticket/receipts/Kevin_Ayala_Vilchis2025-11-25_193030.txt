@@ -1,0 +1,22 @@
+Customer Receipt Summary for: Kevin Ayala Vilchis
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $9.26
+Confirmation Number: 61a2d4d6
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Kevin Ayala Vilchis
+--------------------------------------
+Event Type: Festival
+Event Name: Minerpalooza
+Event Date: 11/1/2025
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $2.70
+Confirmation Number: fd53548a
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

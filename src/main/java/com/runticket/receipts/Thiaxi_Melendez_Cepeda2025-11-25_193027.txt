@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Thiaxi Melendez Cepeda
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 14
+Event Date: 1/3/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $58.59
+Confirmation Number: 54ef384e
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

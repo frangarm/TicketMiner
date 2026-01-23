@@ -1,0 +1,99 @@
+Customer Receipt Summary for: Urvi Beltran
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 2
+Event Date: 9/11/2025
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $47.15
+Confirmation Number: 38481b8f
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Urvi Beltran
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 12
+Event Date: 3/22/2026
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $29.25
+Confirmation Number: 2d6262de
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Urvi Beltran
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. Louisiana Tech (Basketball)
+Event Date: 1/28/2026
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $150.86
+Confirmation Number: 375b0ed3
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Urvi Beltran
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Fest 2026
+Event Date: 4/27/2026
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $338.55
+Confirmation Number: 0c6ed59c
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Urvi Beltran
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 5
+Event Date: 10/2/2025
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $24.92
+Confirmation Number: a02fa05e
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Urvi Beltran
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Film Fest
+Event Date: 11/15/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $318.79
+Confirmation Number: 9bd03b86
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Urvi Beltran
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 21
+Event Date: 1/29/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $39.73
+Confirmation Number: 2274d337
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Urvi Beltran
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $69.37
+Confirmation Number: 134f48c5
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------
+Customer Receipt Summary for: Urvi Beltran
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 6
+Event Date: 1/8/2026
+Ticket Type: Silver
+Number of Tickets: 1
+Total Price: $26.14
+Confirmation Number: 1ec5c75f
+Purchase Date: 2025-11-25 19:30:28
+--------------------------------------

@@ -1,0 +1,88 @@
+Customer Receipt Summary for: Sofia Vergara
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Pride Week
+Event Date: 10/3/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $178.06
+Confirmation Number: 469d757b
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Sofia Vergara
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 14
+Event Date: 1/3/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $95.85
+Confirmation Number: 57a6dc4a
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Sofia Vergara
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 18
+Event Date: 1/17/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $136.86
+Confirmation Number: 2a3ce431
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Sofia Vergara
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 3
+Event Date: 11/27/2025
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $180.25
+Confirmation Number: 9652900d
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Sofia Vergara
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 4
+Event Date: 5/20/2026
+Ticket Type: Bronze
+Number of Tickets: 3
+Total Price: $54.07
+Confirmation Number: 81e2a1a1
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Sofia Vergara
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Cook-Off
+Event Date: 9/20/2026
+Ticket Type: Gold
+Number of Tickets: 6
+Total Price: $660.32
+Confirmation Number: 1d0294ea
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Sofia Vergara
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 8
+Event Date: 12/13/2025
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $95.85
+Confirmation Number: 9d0b4018
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------
+Customer Receipt Summary for: Sofia Vergara
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 5
+Event Date: 12/4/2025
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $76.68
+Confirmation Number: ea296396
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Francisco Garcia
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. New Mexico (Basketball)
+Event Date: 12/10/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $254.78
+Confirmation Number: dd5872e2
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Francisco Garcia
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. North Texas (Basketball)
+Event Date: 2/17/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $167.09
+Confirmation Number: df4874c1
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Francisco Garcia
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. North Texas (Basketball)
+Event Date: 2/17/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $57.49
+Confirmation Number: 8e249a78
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Jason Ortiz
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 5
+Event Date: 10/2/2025
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $61.88
+Confirmation Number: 524bda5a
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Jason Ortiz
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 17
+Event Date: 1/15/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $52.02
+Confirmation Number: 161c2e5a
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Jason Ortiz
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 2
+Event Date: 11/22/2025
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $21.33
+Confirmation Number: 12149581
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

@@ -1,0 +1,22 @@
+Customer Receipt Summary for: Mickey Mouse
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Women’s Soccer vs. NMSU
+Event Date: 8/28/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $269.39
+Confirmation Number: 541a9e26
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Mickey Mouse
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 28
+Event Date: 2/21/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $254.58
+Confirmation Number: 307a4620
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

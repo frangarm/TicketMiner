@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Christina Perez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 11
+Event Date: 10/4/2025
+Ticket Type: Gold
+Number of Tickets: 1
+Total Price: $32.16
+Confirmation Number: 1d507d31
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Christina Perez
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 9
+Event Date: 3/28/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $9.54
+Confirmation Number: 656db572
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------
+Customer Receipt Summary for: Christina Perez
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 2
+Event Date: 1/8/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $2.70
+Confirmation Number: ddbbc2cb
+Purchase Date: 2025-11-25 19:30:30
+--------------------------------------

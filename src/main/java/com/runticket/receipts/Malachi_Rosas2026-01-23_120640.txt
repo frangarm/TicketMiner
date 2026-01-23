@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Choir Holiday Gala
+Event Date: 12/2/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $129.12
+Confirmation Number: 29ce6326
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Festival
+Event Name: ACL
+Event Date: 5/2/2026
+Ticket Type: VIP
+Number of Tickets: 5
+Total Price: $1657.23
+Confirmation Number: 73cf6d38
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 2
+Event Date: 9/11/2025
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $61.96
+Confirmation Number: d935e82c
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 7
+Event Date: 4/16/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $85.44
+Confirmation Number: d15c7f8a
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 2
+Event Date: 9/11/2025
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $21.95
+Confirmation Number: befe5461
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UT Arlington (Basketball)
+Event Date: 1/17/2026
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $254.58
+Confirmation Number: cf8c4b1d
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Malachi Rosas
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners Women’s Soccer vs. NMSU
+Event Date: 8/28/2026
+Ticket Type: Bronze
+Number of Tickets: 5
+Total Price: $91.60
+Confirmation Number: 25c6362a
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Andrea Villa
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 9
+Event Date: 3/28/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $120.53
+Confirmation Number: 1e3df314
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Andrea Villa
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Spring Music Fest
+Event Date: 4/20/2026
+Ticket Type: Gold
+Number of Tickets: 3
+Total Price: $578.09
+Confirmation Number: 9d795416
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Andrea Villa
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. FIU (Football)
+Event Date: 10/31/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $232.86
+Confirmation Number: 3d931c33
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

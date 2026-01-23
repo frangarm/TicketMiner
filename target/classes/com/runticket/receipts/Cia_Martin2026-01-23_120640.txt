@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Cia Martin
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Lights Winter Fest
+Event Date: 12/12/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $265.75
+Confirmation Number: bd387c9a
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Cia Martin
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 16
+Event Date: 1/10/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $69.76
+Confirmation Number: 97133ef3
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Cia Martin
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $2.70
+Confirmation Number: ba239e59
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

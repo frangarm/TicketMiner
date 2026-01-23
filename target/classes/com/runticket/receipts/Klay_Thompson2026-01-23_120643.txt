@@ -1,0 +1,33 @@
+Customer Receipt Summary for: Klay Thompson
+--------------------------------------
+Event Type: Festival
+Event Name: Minerpalooza
+Event Date: 11/1/2025
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $2.70
+Confirmation Number: 66f79a66
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Klay Thompson
+--------------------------------------
+Event Type: Festival
+Event Name: Minerpalooza
+Event Date: 11/1/2025
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $2.70
+Confirmation Number: 5f475a48
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------
+Customer Receipt Summary for: Klay Thompson
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 1
+Event Date: 12/16/2025
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $2.70
+Confirmation Number: 92c567cc
+Purchase Date: 2026-01-23 12:06:43
+--------------------------------------

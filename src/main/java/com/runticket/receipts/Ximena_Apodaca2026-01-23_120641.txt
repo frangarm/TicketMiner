@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Ximena Apodaca
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 25
+Event Date: 2/12/2026
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $35.57
+Confirmation Number: 28fb2975
+Purchase Date: 2026-01-23 12:06:41
+--------------------------------------

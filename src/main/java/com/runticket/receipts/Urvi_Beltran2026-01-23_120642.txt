@@ -1,0 +1,22 @@
+Customer Receipt Summary for: Urvi Beltran
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Commencement 3
+Event Date: 11/28/2025
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $2.70
+Confirmation Number: eb5b9a65
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Urvi Beltran
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 25
+Event Date: 2/12/2026
+Ticket Type: Bronze
+Number of Tickets: 1
+Total Price: $21.95
+Confirmation Number: 3fe5707e
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

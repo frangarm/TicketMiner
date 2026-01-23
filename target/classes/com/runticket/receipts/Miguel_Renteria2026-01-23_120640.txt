@@ -1,0 +1,55 @@
+Customer Receipt Summary for: Miguel Renteria
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 12
+Event Date: 12/27/2025
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $133.66
+Confirmation Number: cc4bf686
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Miguel Renteria
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 12
+Event Date: 12/27/2025
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $170.62
+Confirmation Number: 377b34f7
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Miguel Renteria
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Summer Bash
+Event Date: 6/15/2026
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $318.79
+Confirmation Number: e4539ce5
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Miguel Renteria
+--------------------------------------
+Event Type: Concert
+Event Name: Gloria Trevi Live in El Paso
+Event Date: 10/15/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $620.80
+Confirmation Number: c3010e92
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------
+Customer Receipt Summary for: Miguel Renteria
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 3
+Event Date: 9/18/2025
+Ticket Type: General Admission
+Number of Tickets: 4
+Total Price: $61.96
+Confirmation Number: 3cdbd94c
+Purchase Date: 2026-01-23 12:06:40
+--------------------------------------

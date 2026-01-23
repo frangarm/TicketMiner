@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Water Bottle
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 25
+Event Date: 2/12/2026
+Ticket Type: Bronze
+Number of Tickets: 2
+Total Price: $41.21
+Confirmation Number: 39423963
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Water Bottle
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. NMSU Aggies (Football)
+Event Date: 9/12/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $292.87
+Confirmation Number: 620be965
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Water Bottle
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. New Mexico (Basketball)
+Event Date: 12/10/2026
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $348.42
+Confirmation Number: 1af1c46b
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Water Bottle
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Miner Pride Week
+Event Date: 10/3/2026
+Ticket Type: VIP
+Number of Tickets: 4
+Total Price: $318.79
+Confirmation Number: b7a404a3
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Water Bottle
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 28
+Event Date: 2/21/2026
+Ticket Type: Gold
+Number of Tickets: 5
+Total Price: $153.81
+Confirmation Number: 072bf35c
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Water Bottle
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 2
+Event Date: 9/11/2025
+Ticket Type: Silver
+Number of Tickets: 5
+Total Price: $113.82
+Confirmation Number: 35875df8
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Water Bottle
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 19
+Event Date: 1/22/2026
+Ticket Type: General Admission
+Number of Tickets: 3
+Total Price: $47.15
+Confirmation Number: e05a5108
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------

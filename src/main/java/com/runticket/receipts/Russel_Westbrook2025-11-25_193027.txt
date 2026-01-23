@@ -1,0 +1,77 @@
+Customer Receipt Summary for: Russel Westbrook
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $59.14
+Confirmation Number: 7f520c6f
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Russel Westbrook
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 4
+Event Date: 9/25/2025
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $61.88
+Confirmation Number: 88e5ed0b
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Russel Westbrook
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 28
+Event Date: 2/21/2026
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $69.76
+Confirmation Number: 3e86bc3a
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Russel Westbrook
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 12
+Event Date: 3/22/2026
+Ticket Type: VIP
+Number of Tickets: 6
+Total Price: $278.11
+Confirmation Number: dc6e0dd3
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Russel Westbrook
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 12
+Event Date: 12/27/2025
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $49.28
+Confirmation Number: bd6c53db
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Russel Westbrook
+--------------------------------------
+Event Type: Festival
+Event Name: Coachella 2
+Event Date: 10/21/2025
+Ticket Type: General Admission
+Number of Tickets: 5
+Total Price: $2742.78
+Confirmation Number: 083d2c1f
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------
+Customer Receipt Summary for: Russel Westbrook
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 18
+Event Date: 1/17/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $114.48
+Confirmation Number: 9a6f0be9
+Purchase Date: 2025-11-25 19:30:27
+--------------------------------------

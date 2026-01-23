@@ -1,0 +1,165 @@
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Concert
+Event Name: Miner Choir Holiday Gala
+Event Date: 12/2/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $97.53
+Confirmation Number: 2326a799
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 1
+Event Date: 11/30/2025
+Ticket Type: Silver
+Number of Tickets: 3
+Total Price: $73.07
+Confirmation Number: fd66efb1
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. FIU (Football)
+Event Date: 10/31/2026
+Ticket Type: Silver
+Number of Tickets: 2
+Total Price: $121.23
+Confirmation Number: cfee8eb5
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Festival
+Event Name: Miner Lights Winter Fest
+Event Date: 12/12/2026
+Ticket Type: VIP
+Number of Tickets: 2
+Total Price: $180.50
+Confirmation Number: dc6d5835
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Wind Symphony 8
+Event Date: 3/3/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $126.81
+Confirmation Number: f36c713e
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 30
+Event Date: 2/28/2026
+Ticket Type: VIP
+Number of Tickets: 3
+Total Price: $128.64
+Confirmation Number: 8c904ba8
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 29
+Event Date: 2/26/2026
+Ticket Type: VIP
+Number of Tickets: 1
+Total Price: $39.73
+Confirmation Number: da758d7a
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. UAB (Football)
+Event Date: 9/19/2026
+Ticket Type: General Admission
+Number of Tickets: 1
+Total Price: $32.32
+Confirmation Number: 2ff507b5
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Festival
+Event Name: UTEP Fiesta Latina
+Event Date: 5/5/2026
+Ticket Type: Silver
+Number of Tickets: 4
+Total Price: $457.07
+Confirmation Number: a46e8e65
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 17
+Event Date: 1/15/2026
+Ticket Type: Bronze
+Number of Tickets: 6
+Total Price: $118.26
+Confirmation Number: 7d8ffdfb
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 6
+Event Date: 10/9/2025
+Ticket Type: General Admission
+Number of Tickets: 2
+Total Price: $32.32
+Confirmation Number: e4ce8fc0
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Concert
+Event Name: UTEP Symphony Spring Concert
+Event Date: 4/10/2026
+Ticket Type: Bronze
+Number of Tickets: 4
+Total Price: $52.07
+Confirmation Number: 813f1b32
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Miners vs. SMU (Football)
+Event Date: 9/5/2026
+Ticket Type: Gold
+Number of Tickets: 4
+Total Price: $338.55
+Confirmation Number: e89e65c2
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Concert
+Event Name: Los Ángeles Azules en Concierto
+Event Date: 9/18/2026
+Ticket Type: General Admission
+Number of Tickets: 6
+Total Price: $565.73
+Confirmation Number: e1b606b8
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
+Customer Receipt Summary for: Peter Pan
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Basketball 7
+Event Date: 12/11/2025
+Ticket Type: Gold
+Number of Tickets: 2
+Total Price: $56.04
+Confirmation Number: 0b29aa68
+Purchase Date: 2026-01-23 12:06:42
+--------------------------------------
