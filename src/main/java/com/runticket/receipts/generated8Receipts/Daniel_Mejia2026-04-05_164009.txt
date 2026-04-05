@@ -1,0 +1,11 @@
+Customer Receipt Summary for: Daniel Mejia
+--------------------------------------
+Event Type: Sport
+Event Name: UTEP Football 1
+Event Date: 9/4/2025
+Ticket Type: GA
+Number of Tickets: 1
+Total Price: $15.00
+Confirmation Number: b2da6245
+Purchase Date: 2026-04-05 16:40:09
+--------------------------------------

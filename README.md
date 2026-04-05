@@ -1,17 +1,43 @@
-TicketMiner is a ticketing system that stores customer and event information. It allows a customer to purchase tickets for an event, and cancel them if needed. It also allows a System Administrator to see events, their financial information, and to create or delete events. The system creates receipts and invoices for every purchase done by a customer. The System Administrator can run an AutoPurchaser that purchases tickets for Customers according to the information on a file.  
+# TicketMiner
 
+TicketMiner is a Java-based ticketing system that stores customer and event information. Customers can purchase and cancel tickets, and administrators can review event and financial details, create events, and delete events.
 
+## Prerequisites
 
-Authors: 
+Before running the project, install the following:
 
+1. Java Development Kit (JDK) 24 or newer
+2. Apache Maven 3.9+
 
-Adrian Sifuentes
+Verify installation:
 
+```powershell
+java -version
+mvn -version
+```
 
-Henry Ng
+## Project Setup
 
+From the project root directory:
 
-Francisco Garcia
+```powershell
+mvn clean compile
+```
 
+This compiles the application into the `target/classes` directory.
 
-Sebastian Marquez
+## Run The Program
+
+Start the main application (GUI):
+
+```powershell
+java -cp target/classes com.runticket.RunTicket
+```
+or click run Java on the RunTicket.java file under the runticket, com, java, main, and src folders.
+
+## Authors
+
+- Adrian Sifuentes
+- Henry Ng
+- Francisco Garcia
+- Sebastian Marquez
